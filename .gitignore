@@ -1,0 +1,58 @@
+# Ignore generated images and figures (only plot outputs; keep project logos)
+# Report figures directory (generated)
+/Report/figures/
+
+/Portfolio_Analysis/**/output_plots/
+
+# Portfolio/analysis generated outputs
+/Portfolio_Analysis/**/output_*.png
+
+# Any other generated plot images matching common patterns
+**/output_*.png
+
+# Ignore generated documents
+*.pdf
+
+# Ignore LaTeX source files
+*.tex
+
+# Ignore confidential portfolio exports
+/portfolio_exports/confidential/
+
+# Ignore raw ETF data folder
+/ETF_Data/
+
+# Ignore report figures folder (optional)
+/Report/figures/
+
+# Ignore backup originals (raw exports)
+/portfolio_exports/backup_original/
+
+# Ignore generated graph data used for plotting (JSON outputs)
+/graph_data/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+env/
+
+# Streamlit cache and config
+.streamlit/
+
+# Environment files
+.env
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Jupyter notebooks (do not track heavy .ipynb files)
+*.ipynb
+
+# Keep logo files/folders even though we ignore PNGs above
+!logos/
+!logos/**
+!**/logos/**
