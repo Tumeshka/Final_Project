@@ -1,0 +1,53 @@
+Version history
+Summary of changes in the materiality ratings from the July 2024 version to September 2025
+
+ Economic           Pressure or          Previous            New         Reason for change
+ activity (ISIC     Ecosystem service    materiality         materiality
+ Group or Class)                         rating (July        rating
+                                         2024)               (September
+                                                             2025)
+ Data processing,   Area of seabed       VL                  L           Reviewed component scores.
+ hosting and        use                                                  These are now Medium for
+ related                                                                 total financial input and Low
+ activities; web                                                         magnitude, resulting in
+ portals                                                                 materiality rating Low.
+
+ Solar energy       Emissions of toxic   L                   VL             Reviewed magnitude
+                    pollutants to                                           component score, which is
+                    water and soil                                          now Low. This results in final
+                                                                            materiality rating of Very Low.
+
+ Transmission       Water flow           VL                  L              Reviewed reliance and
+ and distribution   regulation                                              financial cost of flood supply,
+ of electricity                                                             which are now both rated
+                                                                            Moderate. This results in
+                                                                            materiality rating of Low for
+                                                                            water flow regulation.
+
+
+Summary of changes in the value chain links from the July 2024 version to September 2025
+
+The downstream value chain links have been updated:
+
+   •   The EXIOBASE final demand categories Final consumption expenditure by households, Gross
+       fixed capital formation, Final consumption expenditure by non-profit organisations serving
+       households (NPISH), Changes in inventories, Final consumption expenditure by government
+       are now included in the downstream value chain links under the category Final consumption
+       category.
+   •   An error has been fixed in the calculation of the downstream value chain links to ensure that
+       the links displayed in the file are reflective of the top five value chain links from the Input-
+       Output model (based on total output data). 80% of the direct operations activities listed in
+       the downstream file have 10 or fewer links. 20% of the direct operations activities are linked
+       to between 11 and 35 Tier 1 activities. This results primarily from: 1) the fact that some
+       economic activities are supplying to a large number of other activities; and 2) the need to
+       convert from EXIOBASE sector classification into ISIC.
+
+
+
+Summary of changes to the format of the CSV zip file
+
+   •   In the July 2024 csv files, rows 1 and 2 of the following files contained the headers “Economic
+       activity” and “Pressures” or “Ecosystem services dependencies”. The September 2025 csv
+       files have the two header rows removed for the following files: 03. Dependency links, 05.
+       Pressure links, 06. Dependency mat ratings, 07. Pressure mat ratings.
+

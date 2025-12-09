@@ -1,0 +1,718 @@
+            Frequently Asked Questions on the updated ENCORE
+                             knowledge base
+                                                                                                           Prepared by: UNEP-WCMC
+                                                                                                                    Date: June 2024
+
+
+The purpose of this document is to help users with the most commonly asked questions about
+the ENCORE knowledge base.
+
+Further information about the updated ENCORE knowledge base is provided in the Explanatory
+Note.
+
+Questions
+1. What is ENCORE, who manages it and who developed the updated ENCORE knowledge
+base? ............................................................................................................................................... 2
+2. When will the updates be available on the website?................................................................ 2
+3. Will the file format of the knowledge base change? ................................................................ 3
+4. Is the updated ENCORE knowledge base available for free? .................................................. 3
+5. How often will the ENCORE knowledge base be updated? ..................................................... 3
+6. Is the ENCORE biodiversity module also being updated? ....................................................... 3
+7. Can I still access the 2018-2023 version of the ENCORE knowledge base after the full
+launch of the updated ENCORE knowledge base? ....................................................................... 3
+8. Who is the target audience of ENCORE and the updated knowledge base? ......................... 3
+9. What is changing and what is new? .......................................................................................... 3
+10. Why is the ENCORE knowledge base undergoing an update? .............................................. 5
+11. I was already using ENCORE, how do I convert from the categorizations used in the
+2018-2023 version of the ENCORE to the updated ENCORE knowledge base? ........................ 6
+12. What are the new concepts and how do they differ from the previous version? ................ 7
+13. Why was ISIC selected as the industry classification for ENCORE? .................................... 9
+14. What does it mean that the updated ENCORE knowledge base shows only "key" value
+chain links? .................................................................................................................................... 10
+15. Which materiality ratings were assessed using quantitative indicators and which were
+assessed using the qualitative methodology? ........................................................................... 10
+16. Why are the updated materiality ratings different from the previous ones?...................... 10
+17. I want to design/develop a tool based on the improved ENCORE’s knowledge base, what
+are the licence requirements to use it? ....................................................................................... 16
+18. How does the updated ENCORE knowledge base relate to the SBTN Materiality
+Screening Tool? ............................................................................................................................ 16
+
+
+
+                                                                                                                                                     1
+1. What is ENCORE, who manages it and who developed the updated
+ENCORE knowledge base?
+ENCORE (Exploring Natural Capital Opportunities, Risks and Exposure) is a free, online tool
+that helps organisations explore their exposure to nature-related risk and take the first steps
+to understand their dependencies and impacts on nature. It allows users to scope and identify
+priorities for further analysis. ENCORE is a key tool, referenced by leading corporate
+frameworks and standards, such as the Taskforce on Nature-related Financial Disclosures
+(TNFD), the Science Based Targets Network (SBTN) and the GRI Standards. It is also widely
+used in macroeconomic studies of nature-related risks.
+
+The ENCORE tool was developed in 2018 by Global Canopy, UNEP FI and UNEP-WCMC, who
+together form the ENCORE Partnership, previously known as The Natural Capital Finance
+Alliance (NCFA). ENCORE Partnership maintains and continually improves the ENCORE tool.
+The update of the ENCORE knowledge base released in Q3 2024 has been developed as part
+of the Horizon Europe project “Strengthening Understanding and Strategies of Business to
+Assess and Integrate Nature (SUSTAIN)”. The organisations involved in the technical
+developments and quality assurance of the data were: UN Environment Programme World
+Conservation Monitoring Centre (UNEP-WCMC), the Capitals Coalition, the Netherlands
+Environmental Assessment Agency (PBL), the International Union for the Conservation of
+Nature (IUCN), IUCN Europe and Eidgenoessische Technische Hochschule Zürich (ETH
+Zürich). Other SUSTAIN project partners include Oxford Sustainable Finance Group, WBCSD,
+ShareAction and Fundación Biodiversidad.
+
+The research conducted under the SUSTAIN project enabled updating and enhancing the
+ENCORE knowledge base. The improvements are in line with the evolving finance-business-
+nature nexus and associated user needs and feedback. The enhanced knowledge base is
+aimed primarily at businesses, financial institutions and regulatory bodies to support their
+screening of potential dependencies and impacts on biodiversity and ecosystem services. As
+before, ENCORE covers a broad range of sectors and economic activities at the global
+level. The data have been updated by drawing on the latest scientific research and grey
+literature.
+
+
+2. When will the updates be available on the website?
+From July 2024 onwards, users will be able to download the updated ENCORE knowledge
+base in .csv format from the ENCORE website (see here). This includes the following
+materials:
+
+   •   Updated ENCORE knowledge base (consisting of multiple .csv files)
+   •   Explanatory Note
+   •   Crosswalk tables
+   •   FAQ (this document)
+
+
+Companies and financial institutions can now access the new ENCORE knowledge base via
+downloadable spreadsheets – for offline analysis – with the updates set to be embedded into
+an enhanced version of the online platform due for release later this year.
+
+
+
+
+                                                                                             2
+3. Will the file format of the knowledge base change?
+The updated ENCORE knowledge base is available for download in .csv files, similarly to the
+previous version.
+
+4. Is the updated ENCORE knowledge base available for free?
+ENCORE will remain a free, online tool that helps organisations explore their exposure to
+nature-related risk and take the first steps to understand their dependencies and impacts on
+nature. To access the entirety of the functionalities and download the data, users will be
+required to register a free account as they do currently.
+
+
+5. How often will the ENCORE knowledge base be updated?
+The ENCORE Partners (Global Canopy, UNEP FI and UNEP-WCMC) maintain the ENCORE tool
+and continually make minor improvements to the knowledge base behind it. No major
+changes to the natural capital knowledge base are anticipated for the foreseeable future. You
+can find information on current ENCORE funding and associated development priorities on
+the About ENCORE page.
+
+6. Is the ENCORE biodiversity module also being updated?
+No, this round of updates to the knowledge base only relates to the Natural Capital Module.
+
+7. Can I still access the 2018-2023 version of the ENCORE knowledge
+base after the full launch of the updated ENCORE knowledge base?
+Yes, the archived 2018-2023 version of the ENCORE knowledge base will remain available for
+download from the Data & Methodology section of the ENCORE website.
+
+8. Who is the target audience of ENCORE and the updated knowledge
+base?
+The ENCORE tool and updated knowledge base remain targeted towards businesses, financial
+institutions and regulators to help them understand their impacts and dependencies on
+nature.
+
+9. What is changing and what is new?
+There are seven main improvements into the updated ENCORE knowledge base, more
+information can be found in the Explanatory Note. These are:
+    • Added granularity for economic sectors. The previous knowledge base offered 92
+       production processes within 152 sub-industries, based on the Global Industry
+       Classification Standard (GICS®), while the updated version will provide dependencies
+       and impacts for 270 economic activities, based on the International Standard
+       Industrial Classification for All Economic Activities (ISIC).
+    • An updated and expanded list of ecosystem services. The previous ecosystem
+       services were drawn from the Common International Classification of Ecosystem
+       Services (CICES). The improved version includes the ecosystem services of Level 1 of
+       the System of Environmental-Economic Accounting – Ecosystem Accounting (SEEA-
+       EA). This also includes the addition of the Cultural Ecosystem Services (CES), which
+       the previous version did not have.
+    • Improved clarity on the        structure of the impact pathway. “Impact drivers“ and
+       “Drivers of environmental change” were renamed to "Pressures" and "Mechanisms of
+
+
+
+                                                                                              3
+    change in state" to be in line with the Driver-Pressure-State-Impact-Response
+    framework. What falls under "Pressures" (e.g. GHG emissions, area of freshwater use,
+    generation and release of solid waste) and "Mechanisms of change in state" (e.g.,
+    diseases, flooding, pollutants concentration change) was revised to ensure different
+    potential impact pathways are captured and to reduce duplication. The two-step
+    process was maintained, to enable more detail to be captured in the knowledge base
+    structure (e.g., one pressure can exacerbate multiple mechanisms). The pressures
+    (previously ‘Impact drivers’) are a measurable quantity of substances (i.e., emissions),
+    physical and biological agents, use of resources and use of land that are associated
+    with inputs or outputs of an economic activity. The pressures then trigger the
+    mechanisms, which cause changes in the state of ecosystems and their components.
+    This may in turn result in changes to the capacity of nature (natural capital) to provide
+    social and economic benefits.
+•   Added detail on the biodiversity aspects of the knowledge base. The previous
+    knowledge base had links with natural capital assets (i.e., habitats, atmosphere,
+    minerals, etc). The improved knowledge base includes links with ecosystem
+    components (i.e., species populations, land geomorphology, structural and biotic
+    integrity, etc.), and ecosystem types (e.g., desert and semi-deserts, palustrine
+    wetlands, marine shelfs).
+•   Updated information on dependencies and impacts, drawing on the latest scientific
+    research and grey literature, totalling over 10,000 links across the whole knowledge
+    base.
+•   Inclusion of quantitative data to underpin the materiality ratings. The improved
+    knowledge base includes dependency materiality ratings and pressure materiality
+    ratings, which are based on quantitative data and comparable across sectors, to the
+    extent possible with existing data. The current version of ENCORE offers materiality
+    ratings that are based on a qualitative assessment only.
+•   Coverage of value chain links. The improved knowledge base offers two levels
+    upstream and two levels downstream of the value chain for each of the 271 direct
+    economic activities.
+
+
+
+
+                                                                                           4
+Table 1. Summary of the changes between the 2018-2023 version of the ENCORE knowledge base and the updated
+knowledge base.
+
+    2018-2023 version of the ENCORE
+                                           Updated ENCORE knowledge base
+    knowledge base
+      ®
+1 GICS Industry Classification             ISIC Industry Classification
+
+                                           Ecosystem services from SEEA-EA Level 1 (including
+2 Ecosystem services from CICES            cultural ecosystem services)
+
+    Impact drivers                         Pressures
+3
+    Drivers of environmental change        Mechanisms of change in state
+
+                                           Natural capital divided into ecosystem types (biomes) and
+4 No biome-specific information            ecosystem components
+
+  Qualitative links drawing on literature All qualitative links in the knowledge base have been
+5 available in 2018                       updated using latest scientific research and grey literature
+
+  All materiality ratings based on
+                                           Comparability of materiality ratings across sectors, some
+  qualitative assessment only, with
+6 limited comparability of ratings         pressures materiality ratings draw on quantitative
+                                           indicators to the extent possible
+  across sectors
+
+  Direct potential dependencies and
+7 impacts only                             Inclusion of downstream and upstream value chain links
+
+
+
+
+10. Why is the ENCORE knowledge base undergoing an update?
+The previous version of the ENCORE knowledge base was developed between 2015 and 2018.
+New research on dependencies and impacts of economic activities has since become
+available. The updated ENCORE knowledge reflects this latest data, academic literature and
+grey literature (see the Intro section of the Explanatory Note for more information).
+
+Since the previous version of the ENCORE knowledge base was developed, new
+categorizations have also been proposed by the scientific community for applications by
+business and economic research. For example, the UN System of Environmental Economic
+Accounting – Ecosystem Accounting (SEEA-EA) proposed a new categorization for
+ecosystem services. This has been adopted by other frameworks and methodologies for use
+by business and finance and is now integrated into the updated ENCORE knowledge base as
+well (see Section 2.2 of the Explanatory Note for more information).
+
+The updates also respond to the feedback received from users throughout the years since
+ENCORE was first launched. All the improvements have been made to address users'
+concerns. For example, the previous version of the ENCORE knowledge base used GICS® for
+the categorisation of sectors and sub-industries. The GICS® sub-industries were further
+broken down into production processes, which were defined for the purpose of building the
+ENCORE knowledge base. As the production processes were based on a custom list and did
+not draw on a systematic industry classification, users were not always sure which production
+process was relevant for a given company. The change to ISIC will allow financial institutions,
+businesses, and regulators to more accurately screen their potential impacts and
+
+
+
+
+                                                                                                         5
+dependencies on nature users, with both greater standardization and added granularity (see
+Section 2.1 of the Explanatory Note for more information).
+
+Another common comment received is the lack of information on value chain links, which is
+of great interest to many users. The upstream and downstream value chain links to the
+knowledge base respond to this feedback (see Section 2.7 of the Explanatory Note for more
+information).
+
+Another frequent point of feedback from users is a request to access more detailed
+information on species and habitats. The addition of ecosystem types and components to the
+knowledge base respond to this to help the ENCORE users’ to further understand the
+differences in impacts and dependencies between different types of ecosystems (see Section
+2.4 of the Explanatory Note for more information).
+
+11. I was already using ENCORE, how do I convert from the
+categorizations used in the 2018-2023 version of the ENCORE to the
+updated ENCORE knowledge base?
+As part of the files available for download with the updated ENCORE knowledge base,
+crosswalk tables are provided that will help match the categorizations used in the 2018-2023
+version of the ENCORE knowledge base and the 2024 version of the ENCORE knowledge base.
+These include:
+
+   •   Crosswalk between GICS® industry classification (including ENCORE’s tailored
+       production processes) and ISIC industry classification.
+   •   Crosswalk between ecosystem services categorization used in the 2018-2023 version
+       of ENCORE (based on CICES 4.3) and ecosystem services categorization used in the
+       2024 version of the ENCORE knowledge base (based on SEEA–EA Level 1).
+   •   Crosswalk between the list of impact drivers used in the 2018-2023 version of ENCORE
+       knowledge base and the list of pressures used in the 2024 version of the ENCORE
+       knowledge base.
+
+Please note that you will need to be logged in to access the download link. Creating an account
+on the ENCORE website is free.
+
+
+
+
+                                                                                             6
+12. What are the new concepts and how do they differ from the previous version?
+Table 2 below provides definitions of the key terms used in the updated ENCORE knowledge base.
+Table 2. The list of key concepts and definitions for use in the improved knowledge base.
+
+Key concept         Definition for use in ENCORE’s improved knowledge base                                                   References
+Dependencies        Aspects of ecosystem services that an organization or other actor relies on to function. This            Adapted from:
+                                                                                                                             Science Based Targets Network (2023). SBTN Glossary of
+                    includes ecosystems’ ability to regulate water flow, water quality, and hazards like fires and
+                                                                                                                             Terms as referenced in Taskforce on Nature-related
+                    floods; provide a suitable habitat for pollinators; sequester carbon and other services                  Financial Disclosure (2023). Glossary. Available at:
+                    provided by ecosystems.                                                                                  https://tnfd.global/publication/glossary/
+
+Ecosystem           The contributions of ecosystems to the benefits that are used in economic and other human System of Environmental- Economic Accounting (2021).
+                                                                                                              System    of   Environmental-Economic  Accounting—
+service             activity.
+                                                                                                                             Ecosystem         Accounting.        Available      at:
+                                                                                                                             https://seea.un.org/sites/seea.un.org/files/documents/
+                                                                                                                             EA/seea_ea_white_cover_final.pdf
+
+                                                                                                                             Taskforce on Nature-related Financial Disclosure (2023).
+                                                                                                                             Glossary.                   Available                   at:
+                                                                                                                             https://tnfd.global/publication/glossary/
+Ecosystem type      Categorization of ecosystems that reflects a distinct set of abiotic and biotic components               Adapted from:
+                                                                                                                             System of Environmental- Economic Accounting (2021).
+                    and their interactions.
+                                                                                                                             System     of    Environmental-Economic       Accounting—
+                                                                                                                             Ecosystem          Accounting.         Available        at:
+                                                                                                                             https://seea.un.org/sites/seea.un.org/files/documents/
+                                                                                                                             EA/seea_ea_white_cover_final.pdf
+Impacts             Changes in the state of nature (natural capital), which may result in changes to the capacity            Adapted from:
+                                                                                                                             Science Based Targets Network (2023). SBTN Glossary of
+                    of nature (natural capital) to provide social and economic benefits. Impacts can be positive
+                                                                                                                             Terms, Climate Disclosure Standards Board (2021).
+                    or negative. They can be the result of an organisation's or another party's actions and can be           Application guidance for Biodiversity- related Disclosures.
+                    direct, indirect or cumulative.                                                                          As referenced in Taskforce on Nature-related Financial
+                                                                                                                             Disclosure      (2023).    Glossary.       Available    at:
+                                                                                                                             https://tnfd.global/publication/glossary/
+
+Materiality         An impact or dependency on natural capital is material if consideration of its value, as part of Natural Capital Coalition (2016). Natural Capital Protocol.
+                                                                                                                     Available    at:   https://capitalscoalition.org/capitals-
+                    the set of information used for decision making, has the potential to alter that decision.
+                                                                                                                             approach/natural-capital-
+                                                                                                                             protocol/?fwp_filter_tabs=guide_supplement
+Mechanism of        Mechanism causing change in state of ecosystems and their components (natural capital).                  Definition developed for the purpose of the updated
+                                                                                                                             ENCORE knowledge base.
+change in state
+
+
+
+                                                                                                                                                                                      7
+Natural capital   The stock of renewable and non-renewable natural resources (e.g. plants, animals, air, water, Taskforce on Nature-related Financial Disclosure (2023).
+                                                                                                                Glossary           .            Available            at:
+                  soils, minerals) that combine to yield a flow of benefits to people.
+                                                                                                                       https://tnfd.global/publication/glossary/
+
+                                                                                                                       Natural Capital Coalition, Natural Capital Finance
+                                                                                                                       Alliance, VBDO (2018). Connecting Finance and Natural
+                                                                                                                       Capital: A Supplement to the Natural Capital Protocol.
+                                                                                                                       Available at: www.naturalcapitalcoalition.org
+
+                                                                                                                       The Intergovernmental Science-Policy Platform on
+                                                                                                                       Biodiversity and Ecosystem Services (2020). Annex I:
+                                                                                                                       Glossary of the Global assessment report on biodiversity
+                                                                                                                       and ecosystem services of the Intergovernmental Science-
+                                                                                                                       Policy Platform on Biodiversity and Ecosystem Services.
+                                                                                                                       Available at: https://zenodo.org/record/5657079#.Y-
+                                                                                                                       4G4cfP1PY
+Pressure          In line with the Driver-Pressure-State-Impact-Response (DPSIR) framework, the ENCORE                 Adapted from:
+                                                                                                                       Science Based Targets Network (2023). SBTN Glossary of
+                  knowledge base defines the term pressure as the use of a measurable quantity of a natural
+                                                                                                                       Terms as referenced in Taskforce on Nature-related
+                  resource or release of measurable quantity of substances, physical and biological agents.            Financial Disclosure (2023). Glossary. Available at:
+                  The pressures trigger the mechanisms causing change in state of ecosystems and their                 https://tnfd.global/publication/glossary/
+                  components. In ENCORE, these are all assumed to be negative, leading to potential
+                  risks. Some initiatives, such as the Taskforce on Nature-related Financial Disclosures (TNFD)
+                  or the Natural Capital Protocol, refer to pressures as “impact drivers” as it implies that
+                  "impact drivers" can lead to either negative or positive impacts.
+
+
+
+
+                                                                                                                                                                             8
+13. Why was ISIC selected as the industry classification for ENCORE?
+The updates included reviewing the approach to categorising economic activities. The
+feedback received from users was that the use of GICS® sub-industries along with bespoke
+production processes in ENCORE was challenging. This was for two reasons: 1) the
+production processes were not formally part of GICS®, meaning the data often had to be
+aggregated to GICS® sub-industry level; and 2) at the same time, the GICS® sub-industries
+were not detailed enough for some users and were difficult to translate to other industry
+classifications. A classification was needed that was more detailed, required less bespoke
+elements to be added to it, and that could more easily be translated to other industry
+classifications.
+
+The transition from GICS® to ISIC was a decision made after assessing the strengths and
+limitations of several available industry classifications. In consultation with the SUSTAIN
+consortium partners, as well as Global Canopy and UNEP FI, the following rationale was
+agreed for selecting ISIC as the industry classification for the improved ENCORE knowledge
+base:
+
+   •   Recognition and usability: The target users of ENCORE are businesses, financial
+       institutions and regulators. ISIC was developed by the United Nations and is widely
+       recognised by stakeholders from private and public sectors, including ENCORE’s
+       target audiences. ISIC is commonly used as the basis for national industry
+       classifications, for the development of tools and frameworks, and for statistical data
+       collection/reporting. For example, it was used as the basis for the NACE industry
+       classification framework developed by the EU. In addition, ISIC is also clear and easy
+       to use. Finally, SBTN have moved to ISIC as well, which helps with consistency across
+       the screening/target-setting/measurement landscape.
+   •   Global range: Some industry classifications are country or region-focused. ISIC is
+       intended to be used globally, which aligns with ENCORE's need of offering screening
+       of potential impacts and dependencies for all economies across the world.
+   •   Conversion: There are crosswalks available between ISIC and a large number of other
+       industry classifications (see here).
+   •   To address users' concerns: As noted above, the current version of ENCORE uses
+       GICS® for the categorisation of sectors and sub-industries. However, the sub-
+       industries are further broken down into production processes, which were defined for
+       the purposes of the current ENCORE knowledge base. This has been pointed out as a
+       weakness of the current ENCORE knowledge base by users in the past as the
+       production processes are not formally part of GICS® and they are not seen as extensive
+       enough. Additionally, there is no description for each production process, only the
+       description of GICS® sub-industries. This is not a challenge with ISIC since it already
+       has a description for each economic activity detailing what it includes and sometimes
+       also what that activity excludes.
+   •   Additional level of granularity: ISIC is a comprehensive and robust classification, and
+       its levels provide further detail on economic activities to users. That way, users can
+       not only find their desired economic activities more accurately within ISIC, but also the
+       dependencies and impacts can include meaningful information with more granularity.
+       For instance, current ENCORE has 92 production processes, the updated ENCORE
+       knowledge base covers 270 economic activities in ISIC.
+   •   Alignment with MRIO: The new version of the ENCORE knowledge base includes
+       indirect dependencies and impacts on nature (as opposed to only direct ones in the
+       current version of ENCORE). To do this, data from an Environmentally-Extended Multi-
+
+
+
+                                                                                              9
+       Regional Input-Output database developed by ETH Zurich was used. ISIC aligns or can
+       be converted to the industry classification used in the MRIO database.
+
+14. What does it mean that the updated ENCORE knowledge base shows
+only "key" value chain links?
+
+The updated ENCORE knowledge base provides data on key value chain links for the different
+economic activities. This includes only the top value chain links based on their value added.
+For example, for the direct operation of Construction of buildings, the following first tier
+upstream value chain links are shown: Civil engineering, Construction of buildings, Land
+transport and transport via pipeline, Specialized construction activities, Manufacture of
+fabricated metal products, except machinery and equipment. These have provided the highest
+value added to the economic activity of Construction of buildings. Data on the value chain links
+and their value added is taken from the EE-MRIO database. More information about this can
+be found in Section 2.7 of the Explanatory note.
+
+15. Which materiality ratings were assessed using quantitative
+indicators and which were assessed using the qualitative methodology?
+See Tables 6 and 7 in Section 2.6 of the Explanatory Note.
+
+16. Why are the updated materiality ratings different from the previous
+ones?
+The materiality ratings of the updated knowledge base are designed to be comparable across
+sectors and economic activities, which was not the case in the previous iteration of the
+knowledge base. Please consider that the ratings indicate materiality of dependencies and
+pressures at the global and broad economic activity level. As such, they should only serve to
+inform initial screening. This should be followed by spatially explicit and company-specific
+assessments to understand the actual dependencies and pressures of the given company.
+
+The difference in materiality ratings between the old and new versions of the ENCORE
+knowledge base result from one or more of the following reasons.
+   • Due to changes in materiality rating methodologies – In the previous version of the
+       ENCORE knowledge base, all materiality ratings were assigned based on qualitative
+       assessment only. The questions that were used for the assessment can be found in
+       the materiality ratings files of the 2018-2023 version of the ENCORE knowledge base,
+       available to download in the Archive box. In the updated ENCORE knowledge base, the
+       materiality ratings were assigned based on quantitative data where possible. Where a
+       qualitative assessment was used, this was based on an updated set of guiding
+       questions. The first reason for updating the guiding questions was to ensure that the
+       new materiality ratings enable comparisons across economic activities and sectors.
+       The second reason for updating the guiding questions was to clarify that the pressure
+       materiality ratings reflect the significance of the pressures exerted by the economic
+       activity, not the resulting impacts to which these pressures are likely to lead. More
+       information on the updated materiality rating methodologies can be found in Section
+       2.6 of the Explanatory Note.
+   • Due to the change in the industry classification – In some cases, the materiality rating
+       is different because the updated ENCORE knowledge base uses a list of economic
+       activities based on ISIC Level 3 and 4 instead of the production processes used in the
+       previous version of the ENCORE knowledge base. This includes situations where:
+           o An economic activity is defined in a more detailed way as the list of economic
+                activities based on ISIC Level 3 and 4 is significantly more granular than the
+
+
+                                                                                             10
+             ENCORE production processes. For example, the production process of Large-
+             scale irrigated arable crops in GICS® is now divided into different ISIC economic
+             activities such as Growing of rice, Growing of cereals, Growing of sugar cane,
+             Growing of tobacco, Growing of vegetables, etc.
+        o An economic activity is defined differently in ISIC than what the name of the
+             previous production process implied. For example, the production process
+             Natural fibre production is now captured by the ISIC Group Spinning, weaving
+             and finishing of textiles.
+        o The definition of the economic activity, provided by the ISIC industry
+             classification, makes it clearer what is included in the economic activity. For
+             example, the production process Alcoholic fermentation and distilling implied a
+             focus on the fermenting and distilling the wine. In the ISIC industry
+             classification, Manufacture of wines is more clearly defined as including the
+             entire manufacturing process of wines, e.g., including blending of wines.
+•   Due to changes in the categorization of ecosystem services – Some dependency
+    materiality ratings changed because the updated ENCORE knowledge base uses
+    ecosystem services categorization based on SEEA EA Level 1, whereas the previous
+    version of the ENCORE knowledge base used the CICES 4.3 categorization. There are
+    differences between the ecosystem service definitions used by this categorization.
+    For instance, the new Soil and sediment retention ecosystem service includes Buffering
+    and attenuation of mass flows and Mass stabilisation and erosion control. Therefore,
+    what before was split into two ratings for two different ecosystem services, is now
+    covered by the rating for one ecosystem service. For more information on the
+    alignment between the old and new ecosystem service categorizations, see Section
+    2.2 of the Explanatory Note and the crosswalk included in the package of files for
+    download.
+•   Due to integration of new qualitative research – During the review of the qualitative
+    links between economic activities and ecosystem services, and economic activities
+    and pressures, new or updated sources or evidence were found. Some economic
+    activities, which in the previous version of the ENCORE knowledge base were not
+    linked to a given ecosystem service or pressure, have now been linked to the given
+    ecosystem service or pressure and a materiality rating has been added. More
+    information on the updates to the qualitative links can be found in Section 2.5 of the
+    Explanatory Note.
+•   Due to the changes from impact drivers to pressures – The previous version of the
+    ENCORE knowledge base provided impact materiality ratings. These were specified
+    for each production process - impact driver combination, but they were determined by
+    the severity and frequency of impact, not the significance of the impact driver. This
+    caused confusion among ENCORE users. Some pressure materiality ratings also
+    changed because the list of pressures (impact drivers) has been updated. For
+    example, the previous version of the ENCORE knowledge base differentiated between
+    Soil pollutants and Water pollutants as two different impact drivers. In the updated
+    ENCORE knowledge base, these have been redefined as Emissions of nutrient
+    pollutants to water and soil, and Emissions of toxic pollutants to water and soil. This is
+    because, in practice, soil pollutant emissions often become water pollutants and vice
+    versa, but it is useful to differentiate between nutrient and toxic pollutants as they lead
+    to different impacts. As a result of these changes in the pressure categories, some
+    economic activities will have different materiality ratings than in the previous version
+    of the knowledge base. More information about the change from impact drivers to
+    pressures can be found in Section 2.3 of the Explanatory Note.
+•   Due to the use of per 1 EUR of output values in quantitative assessment – The
+    materiality ratings methodology has been improved to enable comparison of the
+
+
+
+                                                                                            11
+         ratings across economic activities and sectors. In ISIC, similarly to other industry
+         classifications, the economic activities are not defined to be equivalent in size. To
+         enable comparison of materiality between different economic activities, the
+         quantitative materiality ratings were assigned based on ‘per 1 EUR of output’ values
+         rather than total (absolute) values. The qualitative assessment used to assign the
+         qualitative materiality ratings also considered the significance of the dependency or
+         pressure relative to the size of the economic activity. More information about the use
+         of per 1 EUR output values can be found in Section 2.6 of the Explanatory Note. Table
+         3 below illustrates that the total amount of GHG emissions varies between different
+         agricultural activities also due to the different sizes of these activities in terms of total
+         financial output.
+
+Table 3. Examples of activities and their financial output (in millions of Euros).
+
+                                                                                               Amount of
+                                                                                              GHG emitted
+                                                                                 Amount of    per 1 EUR of
+                                                            Total output
+                                                                                GHG emitted    output (kg
+                                                            (in millions
+                 Economic activity                                               (kg CO2e)       CO2e)
+                                                              of EUR)
+                                                                               4,071,777      14.787*10-6
+ Cultivation of paddy rice                                 275,354
+                                                                               377,358        1.933*10-6
+ Cultivation of wheat                                      195,159
+                                                                               377,358        1.190*10-6
+ Cultivation of cereal grains nec                          316,878
+                                                                               230,340        0.175*10-6
+ Cultivation of vegetables, fruit, nuts                    1,311,684
+                                                                               377,358        1.838*10-6
+ Cultivation of oil seeds                                  205,303
+                                                                               834,907        10.443*10-6
+ Cultivation of sugar cane, sugar beet                     79,946
+                                                                               350,072        3.986*10-6
+ Cultivation of plant-based fibers                         87,819
+Source: Financial output and GHG emissions data are based on the Environmentally-Extended Multi-Regional Input-
+Output (EE-MRIO) database developed by ETH Zurich.
+
+         As part of the full launch in the second half of 2024, access to the absolute total output
+         and per 1 EUR of output values will be included. This will allow users to understand
+         how the ratings were derived. Those interested in materiality based on the total
+         pressure exerted rather than per 1 EUR of output values will be able to calculate it
+         themselves.
+
+Some examples of all the cases above can be found in the table below.
+
+
+
+
+                                                                                                            12
+Table 4. Examples of differences between materiality ratings and the rationale behind it
+
+ Economic         Equivalent       Pressures or Ecosystem        Question related to the   Detailed explanation
+ activity (ISIC   production       services                      differences between
+ Level 3 or 4)    process                                        the previous ENCORE
+                  used in          Previous      Updated         knowledge base rating
+                  previous         ENCORE        ENCORE          and the updated
+                  ENCORE                                         ENCORE knowledge
+                  knowledge                                      base rating
+                  base
+ Growing of       Large-scale      Pollination   Pollination     Why has the rating        The previous version of the ENCORE knowledge base differentiated between Large scale
+ rice             irrigated                                      changed from H in the     irrigated arable crops, Large scale rainfed arable crops, Small scale irrigated arable crops
+                  arable crops                                   previous ENCORE           and Small scale rainfed arable crops. In the updated ENCORE knowledge base, the
+                                                                 knowledge base to VL      ‘Growing of crops’ activities are divided into more than eight economic activities at ISIC
+                                                                 in the updated ENCORE     Level 4, including Growing of rice, Growing of cereal, Growing of sugar cane etc. The
+                                                                 knowledge base?           updated materiality ratings can therefore reflect the differences in materiality of the
+                                                                                           dependency for the specific type of crop. Both large and small-scale companies are
+                                                                                           included within each crop category.
+ Mining of        Mining           Water         Water           Why has the rating        In the desk review of the latest scientific and grey literature, it was found that mining of
+ hard coal                         quality       purification    changed from N/A in       coal may require a "washing" process involving water and chemicals to remove sulphur
+                                                                 the previous ENCORE       and impurities. This requires purified water.
+                                                                 knowledge base to VH
+                                                                 in the updated ENCORE
+                                                                 knowledge base?
+ Extraction of    Integrated oil   Soil          Emissions of    Why has the rating        The previous ENCORE knowledge base used the impact driver Soil pollutants. In the
+ crude            and gas          pollutants    nutrient        changed from H in the     updated ENCORE knowledge base, this is split into Emissions of toxic pollutants to water
+ petroleum                                       pollutants to   previous ENCORE           and soil and Emissions of nutrient pollutants to water and soil. The research found that this
+                  Oil and gas                    water and       knowledge base to N/A     economic activity does not emit nutrient pollutants. You will, however, notice that the
+                  exploration                    soil            in the updated ENCORE     materiality rating for the pressure Emissions of toxic pollutants to water and soil is VH
+                  surveys                                        knowledge base?           because the activity does indeed emit toxic pollutants.
+
+
+
+
+                                                                                                                                                                                13
+Mining of   Mining   Volume of   Water use   Why has the rating        In the previous version of the ENCORE knowledge base, the materiality rating was based
+iron ores            water use               changed from VH in the    on qualitative assessment only. It used a methodology that considered the severity,
+                                             previous version of the   frequency, and speed of onset of the impact.
+                                             ENCORE knowledge
+                                             base to L in the          In the updated ENCORE knowledge base, the materiality rating for this pressure is
+                                             updated ENCORE            assessed using a quantitative methodology. The updated materiality rating methodology
+                                             knowledge base?           also focuses on the significance of the pressure, meaning that the materiality rating
+                                                                       reflects how water-intense the economic activity is. It does not reflect the severity of the
+                                                                       impact that the activity’s water consumption could lead to, which could vary from location
+                                                                       to location.
+
+                                                                       A few other methodological changes contribute to the change in the rating:
+                                                                           •    The data on volume of water use, taken from EE-MRIO database developed by
+                                                                                ETH Zurich, includes only water that is consumed (i.e., not returned into the
+                                                                                ecosystem). Water needed for cooling, for example, that is returned to the
+                                                                                ecosystem, would not be included in the values underlying this materiality rating
+                                                                                (it is considered in the Water supply dependency materiality rating).
+                                                                           •    The rating is assigned based on per 1 EUR of output values. While Mining of iron
+                                                                                ores may use significant amounts of water, the average amount of water used
+                                                                                per 1 EUR of output is much lower than for other economic activities (e.g.,
+                                                                                Growing of cereals). The ratings are assigned using per 1 EUR of output values to
+                                                                                enable comparison across economic activities and sectors – without this would
+                                                                                be impossible to make comparisons across different economic activities.
+                                                                           •    The updated materiality rating methodology is designed to ensure that the
+                                                                                materiality ratings reflect the relative differences in materiality between the
+                                                                                different economic activities and sectors. An economic activity with water use
+                                                                                pressure materiality rating of Low, may still use significant amounts of water.
+                                                                                But as it is compared to other economic activities, and falls substantially below
+                                                                                the mean on the distribution of values, it is assigned a Low materiality rating. If
+                                                                                all economic activities received a High or Very High materiality rating, the ratings
+                                                                                would have limited information value for users.
+
+
+
+
+                                                                                                                                                           14
+Construction   Construction   Area of    Terrestrial   Why has the rating        In the previous version of the ENCORE knowledge base, the materiality rating was based
+of buildings                  land use   ecosystem     changed from VH in the    on qualitative assessment only. It used a methodology that considered the severity,
+                                         use           previous version of the   frequency and speed of onset of the impact.
+                                                       ENCORE knowledge
+                                                       base to L in the          In the updated ENCORE knowledge base, the materiality rating for this pressure is
+                                                       updated ENCORE            assessed using a quantitative methodology. The updated materiality rating methodology
+                                                       knowledge base?           also focuses on the significance of the pressure, meaning that the materiality rating
+                                                                                 reflects the activity’s land use, it does not reflect the severity of the impact that the
+                                                                                 activity’s land use could lead to, which could vary from location to location.
+
+                                                                                 A few other methodological changes contribute to the change in the rating:
+                                                                                     •    The updated ENCORE knowledge base captures only the direct pressures
+                                                                                          exerted by a given economic activity. For construction, that means thinking only
+                                                                                          about the size of the area where construction activities take place in an average
+                                                                                          year, not all buildings that the construction companies have built to date. As
+                                                                                          soon as the construction of a building is completed, for example, the pressure is
+                                                                                          “transferred” onto the activity that uses the building and surrounding
+                                                                                          infrastructure.
+                                                                                     •    This pressure materiality rating is based only on the quantitative data on the size
+                                                                                          of the land area used. The intensity of land use is not considered. This has been
+                                                                                          noted as a limitation in the methodology, and it will be important for users to be
+                                                                                          aware of this when they interpret the ratings.
+                                                                                     •    The updated materiality rating methodology is designed to ensure that the
+                                                                                          materiality ratings reflect the relative differences in materiality between the
+                                                                                          different economic activities and sectors. An economic activity with area of land
+                                                                                          use pressure materiality rating of Low, may still use significant amounts of land.
+                                                                                          But as it is compared to other economic activities, and falls substantially below
+                                                                                          the mean on the distribution of values, it is assigned a Low materiality rating. If
+                                                                                          all economic activities received a High or Very High materiality rating, the ratings
+                                                                                          would have limited information value for users.
+
+
+
+
+                                                                                                                                                                     15
+17. I want to design/develop a tool based on the improved ENCORE’s
+knowledge base, what are the licence requirements to use it?
+The improved ENCORE knowledge base has the same licensing as the previous iteration.
+ENCORE is made available under the Creative Commons Attribution-ShareAlike 4.0
+International (CC BY-SA 4.0) licence. This licence allows for commercial use provided under
+two conditions: 1) anything you build that integrates ENCORE is made publicly available under
+the same license (CC BY-SA 4.0); and 2) any use of ENCORE is attributed to the ENCORE
+Partners (please see attribution text on the Terms and Conditions page).
+
+Users are encouraged to review the terms of the CC BY-SA 4.0 license with their legal team
+to determine whether the envisaged use case is compatible with the license. Further
+information about the scope and rights can be found within the ENCORE website in “Terms
+and Conditions”.
+
+18. How does the updated ENCORE knowledge base relate to the SBTN
+Materiality Screening Tool?
+The SBTN Materiality Screening Tool (MST) uses the direct operations data from the 2018-
+2023 version of the ENCORE knowledge base.
+
+UNEP-WCMC contributed to the development of the May 2023 version of the MST, which
+covered only direct operations, alongside SBTN, BCG and SEI York. The July 2024 version of
+the SBTN MST was developed by SBTN. It does not yet include the updated ENCORE
+knowledge base. More information about the July 2024 version of the SBTN MST can be found
+on the SBTN website.
+
+ENCORE Partners are working with SBTN to explore how the updated ENCORE knowledge
+base can be integrated into the next version of the SBTN MST.
+
+
+
+
+                                                                                          16
+

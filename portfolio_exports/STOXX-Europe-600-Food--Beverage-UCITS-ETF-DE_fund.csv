@@ -1,0 +1,36 @@
+Issuer Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Nominal,Price,Location,Exchange,Market Currency
+NESN,NESTLE SA,Consumer Staples,Equity,72812886.43,31.62845,72812886.43,848612,85.8,Switzerland,SIX Swiss Exchange,CHF
+ABI,ANHEUSER-BUSCH INBEV SA,Consumer Staples,Equity,27368312.4,11.88824,27368312.4,509652,53.7,Belgium,Nyse Euronext - Euronext Brussels,EUR
+BN,DANONE SA,Consumer Staples,Equity,24732860.4,10.74345,24732860.4,319546,77.4,France,Nyse Euronext - Euronext Paris,EUR
+DGE,DIAGEO PLC,Consumer Staples,Equity,22012156.94,9.56164,22012156.94,1105420,19.91,United Kingdom,London Stock Exchange,GBP
+HEIA,HEINEKEN NV,Consumer Staples,Equity,10063239.0,4.37127,10063239.0,143025,70.36,Netherlands,Euronext Amsterdam,EUR
+RI,PERNOD RICARD SA,Consumer Staples,Equity,7691846.76,3.34118,7691846.76,97786,78.66,France,Nyse Euronext - Euronext Paris,EUR
+KRZ,KERRY GROUP PLC,Consumer Staples,Equity,6472831.95,2.81167,6472831.95,80961,79.95,Ireland,Irish Stock Exchange - All Market,EUR
+DSFIR,DSM FIRMENICH AG,Materials,Equity,6371599.3,2.76769,6371599.3,90893,70.1,Netherlands,Euronext Amsterdam,EUR
+LISP,CHOCOLADEFABRIKEN LINDT & SPRUENGL,Consumer Staples,Equity,6154704.19,2.67348,6154704.19,490,12560.69,Switzerland,SIX Swiss Exchange,CHF
+CARL B,CARLSBERG AS CL B,Consumer Staples,Equity,4985403.38,2.16556,4985403.38,45935,108.53,Denmark,Omx Nordic Exchange Copenhagen A/S,DKK
+CCH,COCA COLA HBC AG,Consumer Staples,Equity,4619651.26,2.00668,4619651.26,106406,43.42,United Kingdom,London Stock Exchange,GBP
+MOWI,MOWI,Consumer Staples,Equity,4228327.44,1.8367,4228327.44,218741,19.33,Norway,Oslo Bors Asa,NOK
+HEIO,HEINEKEN HOLDING NV,Consumer Staples,Equity,3657342.15,1.58868,3657342.15,59037,61.95,Netherlands,Euronext Amsterdam,EUR
+ABF,ASSOCIATED BRITISH FOODS PLC,Consumer Staples,Equity,3559178.34,1.54604,3559178.34,146365,24.32,United Kingdom,London Stock Exchange,GBP
+ORK,ORKLA,Consumer Staples,Equity,3415012.41,1.48341,3415012.41,373017,9.16,Norway,Oslo Bors Asa,NOK
+JDEP,JDE PEETS NV,Consumer Staples,Equity,2469119.2,1.07254,2469119.2,78335,31.52,Netherlands,Euronext Amsterdam,EUR
+BARN,BARRY CALLEBAUT AG,Consumer Staples,Equity,2380709.2,1.03413,2380709.2,1763,1350.38,Switzerland,SIX Swiss Exchange,CHF
+AAK,AAK,Consumer Staples,Equity,2173153.12,0.94397,2173153.12,89700,24.23,Sweden,Nasdaq Omx Nordic,SEK
+SALM,SALMAR,Consumer Staples,Equity,1860833.89,0.80831,1860833.89,37420,49.73,Norway,Oslo Bors Asa,NOK
+CPR,DAVIDE CAMPARI MILANO NV,Consumer Staples,Equity,1736608.46,0.75435,1736608.46,294141,5.9,Italy,Borsa Italiana,EUR
+EUR,EUR CASH,Cash and/or Derivatives,Cash,1724914.92,0.74927,1724914.92,1724915,100.0,European Union,--,EUR
+RBREW,ROYAL UNIBREW,Consumer Staples,Equity,1625359.46,0.70602,1625359.46,21316,76.25,Denmark,Omx Nordic Exchange Copenhagen A/S,DKK
+CWK,CRANSWICK PLC,Consumer Staples,Equity,1562363.78,0.67866,1562363.78,26884,58.12,United Kingdom,London Stock Exchange,GBP
+LOTB,LOTUS BAKERIES NV,Consumer Staples,Equity,1529610.0,0.66443,1529610.0,201,7610.0,Belgium,Nyse Euronext - Euronext Brussels,EUR
+GL9,GLANBIA PLC,Consumer Staples,Equity,1410616.25,0.61274,1410616.25,95635,14.75,Ireland,Irish Stock Exchange - All Market,EUR
+BAKKA,BAKKAFROST,Consumer Staples,Equity,1010120.64,0.43878,1010120.64,25059,40.31,Norway,Oslo Bors Asa,NOK
+VIS,VISCOFAN SA,Consumer Staples,Equity,1001463.6,0.43502,1001463.6,18754,53.4,Spain,Bolsa De Madrid,EUR
+TATE,TATE AND LYLE PLC,Consumer Staples,Equity,787447.12,0.34205,787447.12,185067,4.25,United Kingdom,London Stock Exchange,GBP
+GBP,GBP CASH,Cash and/or Derivatives,Cash,635724.69,0.27615,635724.69,557893,113.95,United Kingdom,--,GBP
+CHF,CHF CASH,Cash and/or Derivatives,Cash,18709.4,0.00813,18709.4,17457,107.17,Switzerland,--,CHF
+DKK,DKK CASH,Cash and/or Derivatives,Cash,8173.24,0.00355,8173.24,61044,13.39,Denmark,--,DKK
+NOK,NOK CASH,Cash and/or Derivatives,Cash,6898.13,0.003,6898.13,81149,8.5,Norway,--,NOK
+SEK,SEK CASH,Cash and/or Derivatives,Cash,6873.7,0.00299,6873.7,75356,9.12,Sweden,--,SEK
+USD,USD CASH,Cash and/or Derivatives,Cash,1233.09,0.00054,1233.09,1434,85.98,United States,--,USD
+ETD_EUR,ETD EUR BALANCE WITH R67675,Cash and/or Derivatives,Cash,0.0,0.0,0.0,0,100.0,European Union,--,EUR

@@ -1,0 +1,1200 @@
+   Explanatory note on the updated ENCORE knowledge base
+    outlining business dependencies and impacts on nature
+                                                                   Prepared by: UNEP-WCMC
+                                                                            Date: June 2024
+
+ENCORE (Exploring Natural Capital Opportunities, Risks and Exposure) is a free, online tool
+that helps organisations explore their exposure to nature-related risk and take the first steps
+to understand their dependencies and impacts on nature. It allows users to scope and identify
+priorities for further analysis. ENCORE is a key tool, referenced by leading corporate
+frameworks and standards, such as the Taskforce on Nature-related Financial Disclosures
+(TNFD), the Science Based Targets Network (SBTN) and the GRI Standards. It is also widely
+used in macroeconomic studies of nature-related risks.
+
+The ENCORE tool was developed in 2018 by Global Canopy, UNEP FI and UNEP-WCMC, who
+together form the ENCORE Partnership, previously known as The Natural Capital Finance
+Alliance (NCFA). ENCORE Partnership maintains and continually improves the ENCORE tool.
+The update of the ENCORE knowledge base described in this note has been developed as part
+of the Horizon Europe project “Strengthening Understanding and Strategies of Business to
+Assess and Integrate Nature (SUSTAIN)”. The organisations involved in the technical
+developments and quality assurance of the data were: UN Environment Programme World
+Conservation Monitoring Centre (UNEP-WCMC), the Capitals Coalition, the Netherlands
+Environmental Assessment Agency (PBL), the International Union for the Conservation of
+Nature (IUCN), IUCN Europe and Eidgenoessische Technische Hochschule Zürich (ETH
+Zürich). Other SUSTAIN project partners include Oxford Sustainable Finance Group, WBCSD,
+ShareAction and Fundación Biodiversidad.
+
+The research conducted under the SUSTAIN project enabled updating and enhancing the
+ENCORE knowledge base. The improvements are in line with the evolving finance-business-
+nature nexus and associated user needs and feedback. The enhanced knowledge base is
+aimed primarily at businesses, financial institutions and regulatory bodies to support their
+screening of potential dependencies and impacts on biodiversity and ecosystem services. As
+before, ENCORE covers a broad range of sectors and economic activities at the global
+level. The data have been updated by drawing on the latest scientific research and grey
+literature.
+
+This explanatory note outlines the components of the updated ENCORE knowledge base and
+how they can support users in understanding their dependencies and impacts. A more
+detailed methodological document will be made available in the second half of 2024.
+
+
+
+
+                                                                                             1
+Acronyms
+CICES - Common International Classification of Ecosystem Services
+
+DPSIR - Driver-Pressure-State-Impact-Response framework
+
+EE-MRIO - Environmentally-Extended Multi-Regional Input-Output database
+
+ENCORE - Exploring Natural Capital Opportunities, Risks and Exposure
+
+ETH Zürich - Eidgenoessische Technische Hochschule Zürich
+
+FAQ - Frequently asked questions
+
+GET - IUCN Global Ecosystem Typology
+
+GHG - Greenhouse gas
+
+GICS® - Global Industry Classification Standard
+
+IPBES - Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services
+
+ISIC - UN’s International Standard Industrial Classification for All Economic Activities (ISIC)
+
+IUCN - International Union for the Conservation of Nature
+
+NACE - European Classification of Economic Activities
+
+N/A - Not Applicable
+
+ND - No Data
+
+NCFA - Natural Capital Finance Alliance
+
+NWFP - Non-wood forest products
+
+PBL - Planbureau voor de Leefomgeving / Netherlands Environmental Assessment Agency
+
+SBTN - Science Based Targets Network
+
+SEEA EA - System of Environmental Economic Accounting – Ecosystem Accounting
+
+SUSTAIN - Strengthening Understanding and Strategies of Business to Assess and Integrate
+Nature
+
+SUSTAIN WP1 - Work package 1
+
+TNFD - Taskforce on Nature-related Financial Disclosures
+
+UNEP FI - UN Environment Programme Finance Initiative
+
+UNEP-WCMC - UN Environment Programme World Conservation Monitoring Centre
+
+
+
+
+                                                                                                  2
+Contents
+1. General overview of the changes .................................................................................................. 3
+2. Seven improvements included in the update .............................................................................. 5
+2.1 Industry classification .................................................................................................................. 5
+2.2 Ecosystem services ...................................................................................................................... 5
+2.3 Impact pathway ........................................................................................................................... 10
+2.4 Ecosystem types and components .......................................................................................... 11
+2.5 Dependency and pressure links ................................................................................................ 13
+2.6 Materiality ratings ....................................................................................................................... 14
+   2.6.1 Qualitative assessment methodology ............................................................................... 16
+   2.6.2 Materiality ratings for the cultural ecosystem services .................................................. 18
+   2.6.3 Quantitative materiality ratings .......................................................................................... 18
+   2.6.4 Blended materiality ratings ................................................................................................. 19
+2.7 Value chain links ......................................................................................................................... 19
+3. Crosswalk tables ........................................................................................................................... 21
+4. Other notes ..................................................................................................................................... 21
+5. Limitations ...................................................................................................................................... 21
+
+
+
+      1. General overview of the changes
+The ENCORE knowledge base is the information that underpins the ENCORE tool. It contains
+two ‘pathways’, one focused on dependencies and the other on impacts, which are
+interconnected by the interrelation of the components. Both pathways were reviewed and
+improved during this process. The structure of the previous iteration of the knowledge base
+is outlined is summarized in Figure 1, whereas Figure 2 outlines the structure of the updated
+knowledge base.
+
+
+
+
+                                                                                                                                                      3
+Figure 1: Structure of the 2018-2023 version of the ENCORE knowledge base
+
+
+
+
+Figure 2: Structure of the updated ENCORE knowledge base.
+
+The updated ENCORE knowledge base includes the seven key improvements summarized in
+Table 1 below.
+Table 1. Summary of the changes between the 2018-2023 version of the ENCORE knowledge base and the
+updated knowledge base.
+
+    2018-2023 version of the ENCORE
+                                               Updated ENCORE knowledge base
+    knowledge base
+      ®
+1 GICS Industry Classification                 ISIC Industry Classification
+
+                                               Ecosystem services from SEEA-EA Level 1 (including
+2 Ecosystem services from CICES                cultural ecosystem services)
+
+    Impact drivers                             Pressures
+3
+    Drivers of environmental change            Mechanisms of change in state
+
+
+
+                                                                                                     4
+                                            Natural capital divided into ecosystem types (biomes) and
+4 No biome-specific information             ecosystem components
+
+  Qualitative links drawing on literature   All qualitative links in the knowledge base have been updated
+5 available in 2018                         using latest scientific research and grey literature
+
+  All materiality ratings based on
+                                            Comparability of materiality ratings across sectors, some
+  qualitative assessment only, with
+6 limited comparability of ratings across   pressures materiality ratings draw on quantitative indicators to
+                                            the extent possible
+  sectors
+
+  Direct potential dependencies and
+7 impacts only                              Inclusion of downstream and upstream value chain links
+
+
+
+
+   2. Seven improvements included in the update
+
+2.1 Industry classification
+The first improvement involves replacing the Global Industry Classification Standard (GICS®)
+and a custom list of ENCORE production processes with the UN’s International Standard
+Industrial Classification for All Economic Activities (ISIC). The previous version of the ENCORE
+knowledge base offered 92 production processes within 152 GICS® sub-industries, while the
+updated version provides dependencies and impacts for 271 economic activities based on
+ISIC groups and classes (levels 3 and 4).
+
+
+
+    What it means for users:
+
+    This update allows users to more easily find the economic activities in which they
+    are interested. The list of production processes used in the 2018-2023 version of the
+    knowledge base was not always clear as it was developed for the purposes of
+    ENCORE only and did not draw on a standardized industry classification.
+
+    ISIC is a comprehensive, globally recognized classification and is the parent
+    classification for many regional and local industry classifications. Conversion
+    (crosswalk) tables from ISIC to most other industry classifications are publicly
+    available. A crosswalk table from GICS (R) to ISIC is provided for ENCORE users as
+    part of the downloadable materials.
+
+    The increased number of economic activities under the new industry classification
+    also provides additional granularity on potential dependencies and impacts.
+
+
+
+
+2.2 Ecosystem services
+The categorization of ecosystem services used in ENCORE has been updated. The new list is
+based on categorization of ecosystem services used in the UN System of Environmental-
+Economic Accounting Ecosystem Accounting (SEEA EA). It can be seen in Table 2 below
+along with the definitions for each ecosystem service. The previous version of the ENCORE
+
+
+                                                                                                    5
+knowledge base used ecosystem services categories based on the Common International
+Classification of Ecosystem Services (CICES). A crosswalk between SEEA EA and CICES is
+available here.
+
+Please note that ecosystem services marked with a ‘*’ are not separately defined in the SEEA
+EA. They were retained from the previous version of the ENCORE knowledge base for
+consistency and in SEEA EA fall under “other provisioning ecosystem services” or “other
+regulatory and maintenance ecosystem services”. Their definitions have remained the same
+as in the previous version of the ENCORE knowledge base.
+
+
+   What it means for users:
+
+   The SEEA EA categorization of ecosystem services is better suited for applications
+   in business and finance context. SEEA EA categorization of ecosystem services is
+   also used by the TNFD framework and other corporate frameworks.
+
+   Furthermore, this improvement includes the addition of four cultural ecosystem
+   services, which were not included in the previous version of the knowledge base:
+
+       1. Recreation-related services
+
+       2. Visual amenity services
+
+       3. Education, scientific and research services
+
+       4. Spiritual, artistic and symbolic services
+
+
+
+
+                                                                                          6
+    Table 2: List of ecosystem services used in the updated ENCORE knowledge base based on SEEA EA. Mapping of dependencies of different economic activities was done using
+    SEEA EA Level 1 (e.g. biomass provisioning services, genetic material services etc.). SEEA EA Level 2 is included in the table because some of the SEEA EA Level 1 ecosystem
+    services are defined based on which Level 2 ecosystem services are included within them.
+
+Ecosystem services (based on SEEA EA)
+Level 1 (Used for         Level 2                                   Definition
+dependency links)
+Provisioning services
+Biomass provisioning services   Crop provisioning services          Crop provisioning services are the ecosystem contributions to the growth of cultivated plants that are harvested by economic units for
+                                                                    various uses including food and fibre production, fodder and energy. This is a final ecosystem service.
+                                Grazed biomass provisioning         Grazed biomass provisioning services are the ecosystem contributions to the growth of grazed biomass that is an input to the growth
+                                services                            of cultivated livestock. This service excludes the ecosystem contributions to the growth of crops used to produce fodder for livestock
+                                                                    (e.g., hay, soybean meal). These contributions are included under crop provisioning services. This is a final ecosystem service but may
+                                                                    be intermediate to livestock provisioning services.
+                                Livestock provisioning services     Livestock provisioning services are the ecosystem contributions to the growth of cultivated livestock and livestock products (e.g.,
+                                                                    meat, milk, eggs, wool, leather), that are used by economic units for various uses, primarily food production. This is a final ecosystem
+                                                                    service. No distinct livestock provisioning services to be recorded if grazed biomass provisioning services are recorded as a final
+                                                                    ecosystem service.
+                                Aquaculture provisioning services   Aquaculture provisioning services are the ecosystem contributions to the growth of animals and plants (e.g. fish, shellfish, seaweed)
+                                                                    in aquaculture facilities that are harvested by economic units for various uses. This is a final ecosystem service.
+                                Wood provisioning services          Wood provisioning services are the ecosystem contributions to the growth of trees and other woody biomass in both cultivated
+                                                                    (plantation) and uncultivated production contexts that are harvested by economic units for various uses including timber production
+                                                                    and energy. This service excludes contributions to non-wood forest products. This is a final ecosystem service.
+                                Wild fish and other natural
+                                aquatic products provisioning       Wild fish and other natural aquatic biomass provisioning services are the ecosystem contributions to the growth of fish and other
+                                services                            aquatic biomass that are captured in uncultivated production contexts by economic units for various uses, primarily food production.
+                                                                    This is a final ecosystem service.
+                                Wild animals, plants and other      Wild animals, plants and other biomass provisioning services are the ecosystem contributions to the growth of wild animals, plants
+                                biomass provisioning services       and other biomass that are captured and harvested in uncultivated production contexts by economic units for various uses. The scope
+                                                                    includes non-wood forest products (NWFP) and services related to hunting, trapping and bio-prospecting activities; but excludes wild
+                                                                    fish and other natural aquatic biomass (included in previous class). This is a final ecosystem service.
+Genetic material services                                           Genetic material services are the ecosystem contributions from all biota (including seed, spore or gamete production) that are used by
+                                                                    economic units, for example (i) to develop new animal and plant breeds; (ii) in gene synthesis; or (iii) in product development directly
+                                                                    using genetic material. This is most commonly recorded as an intermediate service to biomass provisioning.
+Water supply                                                        Water supply services reflect the combined ecosystem contributions of water flow regulation, water purification, and other ecosystem
+                                                                    services to the supply of water of appropriate quality to users for various uses including household consumption. This is a final
+                                                                    ecosystem service.
+Other provisioning services -                                       Physical labour is provided by domesticated or commercial species, including oxen, horses, donkeys, goats and elephants. These can
+Animal-based energy*                                                be grouped as draught animals, pack animals and mounts.
+Regulating and maintenance services
+Global climate regulation                                           Global climate regulation services are the ecosystem contributions to the regulation of the chemical composition of the atmosphere
+services                                                            and oceans that affect global climate through the accumulation and retention of carbon and other GHG (e.g., methane) in ecosystems
+                                                                    and the ability of ecosystems to remove (sequester) carbon from the atmosphere. This is a final ecosystem service.
+
+
+
+
+                                                                                                                                                                                                    7
+Rainfall pattern regulation                                           Rainfall pattern regulation services are the ecosystem contributions of vegetation, in particular forests, in maintaining rainfall patterns
+services (at sub-continental                                          through evapotranspiration at the sub-continental scale. Forests and other vegetation recycle moisture back to the atmosphere where
+scale)                                                                it is available for the generation of rainfall. Rainfall in interior parts of continents fully depends upon this recycling. This may be a final
+                                                                      or intermediate service.
+Local (micro and meso) climate                                        Local climate regulation services are the ecosystem contributions to the regulation of ambient atmospheric conditions (including
+regulation services                                                   micro and mesoscale climates) through the presence of vegetation that improves the living conditions for people and supports
+                                                                      economic production. Examples include the evaporative cooling provided by urban trees (‘green space’), the role of urban water bodies
+                                                                      (‘blue space’) and the contribution of trees in providing shade for humans and livestock. This may be a final or intermediate service.
+Air filtration services                                               Air filtration services are the ecosystem contributions to the filtering of air-borne pollutants through the deposition, uptake, fixing and
+                                                                      storage of pollutants by ecosystem components, particularly plants, that mitigates the harmful effects of the pollutants. This is most
+                                                                      commonly a final ecosystem service.
+Soil quality regulation services                                      Soil quality regulation services are the ecosystem contributions to the decomposition of organic and inorganic materials and to the
+                                                                      fertility and characteristics of soils, e.g., for input to biomass production. This is most commonly recorded as an intermediate service.
+Soil and sediment retention        Soil erosion control services      Soil erosion control services are the ecosystem contributions, particularly the stabilising effects of vegetation, that reduce the loss of
+services                                                              soil (and sediment) and support use of the environment (e.g., agricultural activity, water supply). This is may be recorded as a final or
+                                                                      intermediate service.
+                                   Landslide mitigation               Landslide mitigation services are the ecosystem contributions, particularly the stabilising effects of vegetation, that mitigates or
+                                                                      prevents potential damage to human health and safety and damaging effects to buildings and infrastructure that arise from the mass
+                                                                      movement (wasting) of soil, rock and snow. This is a final ecosystem service.
+Solid waste remediation                                               Solid waste remediation services are the ecosystem contributions to the transformation of organic or inorganic substances, through
+                                                                      the action of micro-organisms, algae, plants and animals that mitigates their harmful effects. This may be recorded as a final or
+                                                                      intermediate service.
+Water purification services        Retention and breakdown of         Water purification services are the ecosystem contributions to the restoration and maintenance of the chemical condition of surface
+(water quality amelioration)       nutrients                          water and groundwater bodies through the breakdown or removal of nutrients and other pollutants by ecosystem components that
+                                   Retention and breakdown of other   mitigate the harmful effects of the pollutants on human use or health. This may be recorded as a final or intermediate ecosystem
+                                   pollutants                         service.
+Water flow regulation services     Baseline flow maintenance          Water regulation services are the ecosystem contributions to the regulation of river flows and groundwater and lake water tables. They
+                                   services                           are derived from the ability of ecosystems to absorb and store water, and gradually release water during dry seasons or periods
+                                                                      through evapotranspiration and hence secure a regular flow of water. This may be recorded as a final or intermediate ecosystem
+                                                                      service.
+                                   Peak flow mitigation services      Water regulation services are the ecosystem contributions to the regulation of river flows and groundwater and lake water tables. They
+                                                                      are derived from the ability of ecosystems to absorb and store water, and hence mitigate the effects of flood and other extreme water-
+                                                                      related events. Peak flow mitigation services will be supplied together with river flood mitigation services in providing the benefit of
+                                                                      flood protection. This is a final ecosystem service.
+Flood mitigation services          Coastal protection services        Coastal protection services are the ecosystem contributions of linear elements in the seascape, for instance coral reefs, sand banks,
+                                                                      dunes or mangrove ecosystems along the shore, in protecting the shore and thus mitigating the impacts of tidal surges or storms on
+                                                                      local communities. This is a final ecosystem service.
+                                   River flood mitigation services    River flood mitigation services are the ecosystem contributions of riparian vegetation which provides structure and a physical barrier
+                                                                      to high water levels and thus mitigates the impacts of floods on local communities. River flood mitigation services will be supplied
+                                                                      together with peak flow mitigation services in providing the benefit of flood protection. This is a final ecosystem service.
+Storm mitigation services                                             Storm mitigation services are the ecosystem contributions of vegetation including linear elements, in mitigating the impacts of wind,
+                                                                      sand and other storms (other than water related events) on local communities. This is a final ecosystem service.
+Noise attenuation services                                            Noise attenuation services are the ecosystem contributions to the reduction in the impact of noise on people that mitigates its
+                                                                      harmful or stressful effects. This is most commonly a final ecosystem service.
+Pollination services                                                  Pollination services are the ecosystem contributions by wild pollinators to the fertilization of crops that maintains or increases the
+                                                                      abundance and/or diversity of other species that economic units use or enjoy. This may be recorded as a final or intermediate service.
+
+
+
+                                                                                                                                                                                                             8
+Biological control services        Pest control services       Biological control services are the ecosystem contributions to the reduction in the incidence of species that may prevent or reduce the
+                                                               effects of pests on biomass production processes or other economic and human activity. This may be recorded as a final or
+                                                               intermediate service.
+                                   Disease control services    Disease control services are the ecosystem contributions to the reduction in the incidence of species that may prevent or reduce the
+                                                               effects of species on human health. This is most commonly a final ecosystem service.
+Nursery population and habitat                                 Nursery population and habitat maintenance services are the ecosystem contributions necessary for sustaining populations of
+maintenance services                                           species that economic units ultimately use or enjoy either through the maintenance of habitats (e.g., for nurseries or migration) or the
+                                                               protection of natural gene pools. This service is an intermediate service and may input to a number of different final ecosystem
+                                                               services including biomass provision and recreation-related services.
+Other regulating and                                           Water, both fresh and saline, and the atmosphere can dilute the gases, fluids and solid waste produced by human activity.
+maintenance service - Dilution
+by atmosphere and
+ecosystems*
+Other regulating and                                           Vegetation is the main (natural) barrier used to reduce light pollution and other sensory impacts, limiting the impact it can have on
+maintenance service -                                          human health and the environment.
+Mediation of sensory impacts
+(other than noise)*
+Cultural services
+Recreation-related services                                    Recreation-related services are the ecosystem contributions, in particular through the biophysical characteristics and qualities of
+                                                               ecosystems, that enable people to use and enjoy the environment through direct, in-situ, physical and experiential interactions with the
+                                                               environment. This includes services to both locals and non-locals (i.e. visitors, including tourists). Recreation-related services may
+                                                               also be supplied to those undertaking recreational fishing and hunting. This is a final ecosystem service.
+Visual amenity services                                        Visual amenity services are the ecosystem contributions to local living conditions, in particular through the biophysical characteristics
+                                                               and qualities of ecosystems that provide sensory benefits, especially visual. This service combines with other ecosystem services,
+                                                               including recreation-related services and noise attenuation services to underpin amenity values. This is a final ecosystem service.
+Education, scientific and                                      Education, scientific and research services are the ecosystem contributions, in particular through the biophysical characteristics and
+research services                                              qualities of ecosystems, that enable people to use the environment through intellectual interactions with the environment. This is a
+                                                               final ecosystem service.
+Spiritual, artistic and symbolic                               Spiritual artistic and symbolic services are the ecosystem contributions, in particular through the biophysical characteristics and
+services                                                       qualities of ecosystems, that are recognised by people for their cultural, historical, aesthetic, sacred or religious significance. These
+                                                               services may underpin people’s cultural identity and may inspire people to express themselves through various artistic media. This is a
+                                                               final ecosystem service.
+    Source: United Nations et al. (2021). System of Environmental-Economic Accounting— Ecosystem Accounting (SEEA EA). White cover publication, pre-edited text subject to
+    official editing. Available at: https://seea.un.org/ecosystem-accounting.
+
+    Note: Ecosystem services marked with * are not separately defined in the SEEA-EA. They were retained from the previous version of the ENCORE knowledge base for consistency.
+    Their definitions are based on the Common International Classification of Ecosystem Services (CICES). Available at: https://cices.eu/
+
+
+
+
+                                                                                                                                                                                                 9
+2.3 Impact pathway
+As part of the improvements, the definition and structure of the impact pathway were reviewed
+and updated. In the 2018-2023 version of the ENCORE knowledge base, the impact pathway
+was split into "impact drivers“ and "drivers of environmental change". In the updated ENCORE
+knowledge base, the components are renamed to "pressures" and "mechanisms of change in
+state", in line with the Driver-Pressure-State-Impact-Response (DPSIR) framework.
+
+The definition of pressures is adapted from the IPBES definition, and in line with the DPSIR
+framework, which refers to “the use of a measurable quantity of a natural resource or release
+of measurable quantity of substances (emissions), physical and biological agents, the use of
+resources and the use of land. The pressures exerted by society are transported and
+transformed in a variety of natural processes to manifest themselves in changes in
+environmental conditions”. Examples of pressures include Area of land use, GHG emissions,
+Emissions of toxic pollutants to water and soil. Other initiatives, such as TNFD and the
+Capitals Coalition use the term “impact driver”.
+
+Mechanisms of change in state refer to processes that cause changes in the state of
+ecosystems and their components (natural capital), which are influenced by pressures.
+Examples include Flooding, Sea surface temperature, Fires, Land use change, etc.
+
+The contents of the lists of pressures and mechanisms of change in state
+were revised to ensure different potential impact pathways are captured and to reduce
+overlap between the two lists. For example, in the previous version of the ENCORE knowledge
+base an economic activity could be linked to Soil pollutants as an impact driver, and pollution
+as a driver of environmental change. In the updated knowledge base, the pressure caused by
+the economic activity would be Emissions of toxic pollutants to water and soil, and the
+mechanism of change in state would be Pollutants concentration change, which in turn would
+affect ecosystem components such as Soils and sediments or Structural and biotic integrity.
+
+The updated ENCORE knowledge base contains descriptive links between pressures and
+ecosystem components, via mechanisms of change, supported by up-to-date citations. This
+new addition provides links for complete impact pathways from pressures through to
+components, rather than separately between pressures and mechanisms, and mechanisms
+and components.
+
+This change also responds to the confusion expressed by some users caused by two different
+sets of ‘drivers’ (impact drivers and drivers of environmental change) in the previous version
+of the ENCORE knowledge base. The two distinct components of the impact pathway were
+kept to provide clarity and capture more detail. As illustrated in the example in Table 3 below,
+one pressure can exacerbate multiple mechanisms of change in state.
+
+
+Table 3: Example illustrating how one pressure can exacerbate multiple mechanisms of change in state.
+
+ Pressure                                               Mechanism of change in state linked to the pressure
+ Area of freshwater use                                 Change in species composition
+                                                        Changes in species population size
+                                                        Diseases
+                                                        Droughts
+                                                        Flooding
+                                                        Land /freshwater/ seabed area modification
+                                                        Pollutants concentration change
+                                                        Weather conditions
+
+
+
+                                                                                                          10
+     What it means for users:
+
+     This update provides users with improved clarity on the structure of the impact
+     pathway. The two components of the impact pathway are more clearly defined and
+     differentiated. The two-step impact pathway shows that one pressure can exacerbate
+     multiple different mechanisms of change in state and, as a result, lead to multiple
+     impacts.
+
+
+
+
+2.4 Ecosystem types and components
+As illustrated in Figure 2, the dependency and impact pathways in the ENCORE knowledge
+base are connected to natural capital. The updated knowledge base now includes added
+granularity. Natural capital is separated into different ecosystem types and ecosystem
+components (the latter were previously called natural capital assets).
+
+The 15 ecosystem types are based on the biomes included in the IUCN Global Ecosystem
+Typology 2.0 (see Table 4 below for an overview of how the IUCN GET 2.0 biomes were
+adapted for the purposes of ENCORE). Together with eight ecosystem components, the
+ecosystem types (see Table 5) provide more detail on habitats and species.
+Table 4: List of ecosystem types used in the updated ENCORE knowledge base, compared to biomes and list of
+biomes used in the IUCN GET list and TNFD list of biomes.
+
+IUCN Global Ecosystem Typology                                                 ENCORE ecosystem types
+   (GET) 2.0 Biomes (Level 2)
+                                              TNFD List of biomes
+
+T1      Tropical-subtropical T1     Tropical-subtropical forests           Tropical-subtropical and
+        forests                                                            Temperate-boreal forests and
+T2      Temperate-boreal     T2     Temperate-boreal forests & woodlands   woodlands
+        forests & woodlands
+T3      Shrublands & shrubby T3     Shrublands & shrubby woodlands         Shrublands & shrubby woodlands,
+        woodlands                                                          Savannas and grasslands
+T4      Savannas and         T4     Savannas and grasslands
+        grasslands
+T5      Deserts and semi-    T5     Deserts and semi-deserts               Desert and Semi-deserts
+        deserts
+T6      Polar-alpine         T6     Polar-alpine                           Polar-alpine
+
+T7      Intensive land-use    T7    Intensive land-use systems             Intensive Land Use Systems –
+        systems                                                            Croplands, pastures and
+                                                                           plantations
+                                                                           Intensive Land Use Systems -
+                                                                           Urban and industrial ecosystems
+S1      Subterranean lithic   S1    Subterranean cave and rock systems     Subterranean ecosystems
+        systems                                                            (including Subterranean lithic
+                              S2    Artificial subterranean spaces         systems, Subterranean
+                                                                           freshwaters, Anthropogenic
+                                                                           subterranean freshwaters and
+                                                                           Subterranean tidal systems)
+SF1     Subterranean          SF1   Subterranean freshwaters
+        freshwaters
+
+
+
+
+                                                                                                          11
+SF2    Anthropogenic         SF2   Artificial subterranean freshwaters
+       subterranean
+       freshwaters
+SM1    Subterranean tidal    SM1 Subterranean tidal
+       systems
+TF1    Palustrine wetlands   TF1   Vegetated wetlands                        Palustrine wetlands
+
+F1     Rivers and streams    F1    Rivers and streams                        Artificial fresh waters, Lakes,
+                                                                             Rivers and streams
+F2     Lakes                 F2    Lakes
+
+F3     Artificial fresh      F3    Artificial wetlands
+       waters
+FM1    Semi-confined         FM1 Coastal inlets and lagoons                  Semi-confined transitional waters
+       transitional waters
+M1     Marine shelfs         M1    Marine shelf                              Marine shelfs
+
+M2     Pelagic ocean         M2    Open ocean waters                         Pelagic ocean waters and Deep
+       waters                                                                Sea floors
+M3     Deep sea floors       M3    Deep sea floors
+
+M4     Anthropogenic         M4    Artificial marine systems                 Anthropogenic marine systems
+       marine systems
+MT1    Shoreline systems     MT1 Shoreline systems                           Shoreline systems (including
+                                                                             Anthropogenic shorelines) and
+                                                                             supralittoral coastal systems
+MT2  Supralittoral coastal MT2 Maritime vegetation
+     systems
+MT3 Anthropogenic          MT3 Artificial shorelines
+     shorelines
+MFT1 Brackish tidal        MFT1 Brackish tidal systems                       Brackish tidal systems
+     systems
+
+       Total = 24                  Total = 25                                Total = 15
+
+
+Source: IUCN (2020). IUCN Global Ecosystem Typology 2.0. Available at
+https://portals.iucn.org/library/sites/library/files/documents/2020-037-En.pdf
+
+TNFD (2023). Recommendations of the Taskforce on Nature-related Financial Disclosure framework. Available
+at: https://tnfd.global/wp-content/uploads/2023/08/Recommendations_of_the_Taskforce_on_Nature-
+related_Financial_Disclosures_September_2023.pdf?v=1695118661
+
+As for the updated list of ecosystem components, they are shown in the table below.
+Table 5: List of ecosystem components used in the updated ENCORE knowledge base
+
+                                        ENCORE ecosystem
+                                        components
+                                        Atmosphere
+                                        Land geomorphology
+                                        Minerals
+                                        Ocean geomorphology
+                                        Soils and sediments
+                                        Water
+                                        Species populations
+                                        Structural and biotic
+                                        composition
+                                        Total = 8
+
+
+
+
+                                                                                                               12
+Assessments of the relevance between ecosystem types and ecosystem components in the
+provision of ecosystem services have also been added, with importance ratings of 1(relevant)
+or 0 (not relevant) for provision of that service by a given ecosystem component in a given
+ecosystem type. This new information provides a useful structure and it is recognized that it
+will need further refinement in future. This could, for example, take the form of more granular
+importance ratings for the relationships between ecosystem components and ecosystem
+service within different ecosystem types, beyond the binary rating system currently applied.
+
+  What it means for users:
+
+  This update will allow users to explore what ecosystem components might be related to
+  their dependencies and pressure in different types of ecosystems. It also provide more
+  detailed information on the role of species and habitats.
+
+
+
+
+2.5 Dependency and pressure links
+As part of the updates, the SUSTAIN project reviewed and updated the links between 271
+economic activities from ISIC and 25 ecosystem services from SEEA EA. This forms
+ENCORE’s qualitative dependency database. Similarly, the team reviewed how the economic
+activities exert pressures on nature. This forms ENCORE’s qualitative pressure database.
+These links and descriptions only show the ecosystem services on which given economic
+activities directly depend and the pressures these economic activities directly exert. Indirect
+dependencies and pressures on nature are captured through value chain links (see section
+2.7).
+
+All qualitative links in the knowledge base have been updated and improved to reflect
+increased granularity and to incorporate latest scientific research, as well as grey literature
+(such as high-profile reports, industry association publications, company sustainability
+reports, organisations’ websites). In response to user feedback, there is now a clear
+distinction between instances where there is no link (N/A – Not Applicable) between an
+economic activity and an ecosystem service (e.g. nuclear power production and animal-based
+energy), and where there it is expected that there is a link but there is insufficient data or
+references to determine the link (ND – No Data). In the previous version of the ENCORE
+knowledge base, both cases were marked as N/A.
+
+The qualitative links have undergone several stages of quality assurance by experts both from
+organizations involved in SUSTAIN WP1 (UNEP-WCMC, IUCN, PBL, Capitals Coalition and ETH
+Zürich). They were also reviewed by a group of industry experts from business and finance
+coordinated by WBCSD and ShareAction.
+
+
+
+
+                                                                                            13
+   What it means for users:
+
+   This update allows users to get access to more up-to-date information on potential
+   dependencies and pressures, based on the latest scientific and grey literature. The
+   qualitative links between economic activities, their dependencies and their pressures
+   are more granular and the descriptions of the qualitative links are more tailored to the
+   specific economic activities.
+
+
+
+
+2.6 Materiality ratings
+Materiality ratings methodology has been improved to enable comparison of the ratings
+across economic activities and sectors. While in the 2018-2023 version of the ENCORE
+knowledge base all materiality ratings were based on qualitative assessment only, the
+materiality ratings in the updated knowledge base draw on quantitative environmental data
+where possible.
+
+Materiality ratings in ENCORE aim to provide users with an indication of the significance of
+the potential nature-related dependencies and pressures identified for their economic
+activities. For the purposes of the ENCORE knowledge base, the term “material” is interpreted
+as synonymous to significant or important to consider in the decision-making process. This
+is in line with the definition of the term in the Natural Capital Protocol. In other contexts,
+“materiality” of dependencies and impacts may be defined through the requirements of
+investors or other stakeholders that a company may be reporting to, or it may be defined
+based on fiduciary or regulatory requirements. For the avoidance of doubt, these dimensions
+were not considered in the development of the ENCORE materiality ratings.
+
+Similar to the previous version, the updated ENCORE materiality ratings use the rating scale
+of Very High (VH), High (H), Medium (M), Low (L) and Very Low (VL). It is important to note
+that the ratings indicate materiality of dependencies and pressures at the global level. These
+ratings should only serve to inform initial screening, which should be followed by spatially
+explicit and company-specific assessments to understand the actual dependencies and
+pressures of the given company.
+
+Where there was sufficient data available, the materiality ratings now draw on quantitative
+environmental indicators, primarily from the Environmentally-Extended Multi-Regional Input-
+Output (EE-MRIO) database developed by ETH Zürich based on EXIOBASE version 3.6. Where
+no suitable quantitative data were available in the EE-MRIO or other sources, qualitative
+assessments have been carried out to complement or substitute the quantitative data. Each
+materiality rating is therefore based on a set of quantitative or qualitative indicators. In some
+cases, we followed a blended approach with a combination of quantitative and a qualitative
+assessment of pressures and dependencies. As a result, there are three types of
+methodologies that were used to assess materiality in the updated ENCORE knowledge
+base:
+   1. Dependency materiality ratings
+            a. Using qualitative assessment only – 16 ratings
+            b. Using a blended (mixed methods) methodology – 9 ratings
+            c. Using quantitative data only – 0 ratings
+   2. Pressure materiality ratings
+
+
+                                                                                              14
+             a. Using quantitative data only – 7 ratings
+             b. Using a blended (mixed methods) methodology – 6 ratings
+             c. Using qualitative assessment only – 0 ratings
+
+An overview of which dependency materiality ratings were developed using a quantitative,
+qualitative and blended methodology can be found in Table 6 below. An overview of which
+pressure materiality ratings were developed using a quantitative approach and which ones
+were developed using a blended approach can be found in Table 7 below.
+
+Table 6: Overview of methodologies used for different dependency materiality ratings included in the updated
+ENCORE knowledge base
+Dependency materiality ratings that were assessed using a qualitative methodology
+Genetic material services
+Other provisioning services - Animal-based energy*
+Global climate regulation services
+
+Rainfall pattern regulation services (at sub-continental scale)
+Local (micro and meso) climate regulation services
+Air filtration services
+
+Soil and sediment retention services
+Solid waste remediation
+Water purification services
+
+Flood mitigation services
+Storm mitigation services
+Noise attenuation services
+Biological control services
+
+Nursery population and habitat maintenance services
+Other regulating and maintenance service - Dilution by atmosphere and ecosystems
+Other regulating and maintenance service - Mediation of sensory impacts (other than noise)
+Recreation-related services
+Visual amenity services
+Education, scientific and research services
+Spiritual, artistic and symbolic services
+Dependency materiality ratings that were assessed using a blended methodology (combination of
+quantitative and qualitative assessment)
+Biomass provisioning services
+Water supply
+Soil quality regulation services
+Water flow regulation services
+Pollination services
+
+Table 7: Overview of methodologies used for different pressure materiality ratings included in the updated ENCORE
+knowledge base
+Pressure materiality ratings that were assessed using a quantitative methodology
+Emissions of GHGs
+Emissions of non-GHG air pollutants
+
+Other biotic resource extraction (e.g. fish, timber)
+Other abiotic resource extraction
+Generation and release of solid waste
+
+
+
+                                                                                                               15
+Area of land use
+Volume of water use
+
+Pressure materiality ratings that were assessed using a qualitative methodology
+Disturbances (e.g. noise, light)
+Area of freshwater use
+Area of seabed use
+Emissions of toxic pollutants to water and soil
+Emissions of nutrient pollutants to water and soil
+Introduction of invasive species
+
+
+2.6.1 Qualitative assessment methodology
+All qualitative assessments that fed into qualitative or blended materiality ratings were
+conducted using the Delphi consensus building method. This approach was also used to
+assign materiality ratings in the 2018-2023 version of ENCORE. It involved the following
+steps:
+
+    1. Each combination of economic activity – ecosystem service or economic activity –
+       pressure was assessed against specified questions. Qualitative materiality ratings
+       used two questions (see Box 1 and 2 below) and blended materiality ratings typically
+       used one qualitative question, which would be combined with a score determined
+       based on quantitative data.
+    2. Two researchers independently assessed each combination of economic activity with
+       ecosystem service or pressure, assigning a score from 1 to 3 depending on the
+       response. Each researcher was from a different partner organization involved in
+       SUSTAIN WP1: UNEP-WCMC, IUCN, Capitals Coalition, PBL and ETH Zurich.
+    3. An automated formula was used to compare the mismatches in ratings assigned by
+       the two researchers. Where the qualitative approach was used for several questions,
+       the mismatches would be checked at the level of the resulting ratings, not for each
+       score feeding into the rating.
+    4. All identified mismatches were discussed in a meeting with the two researchers
+       present, to determine what the final score or materiality rating should be.
+    5. All qualitative and blended materiality ratings went through a quality assurance
+       process within UNEP-WCMC, where additional technical experts reviewed the ratings.
+       The ratings were also shared for review by a group of industry experts from business
+       and finance convened by WBCSD and ShareAction.
+
+ Box 1: Questions used to guide the qualitative assessment of dependency materiality ratings
+
+ The dependency materiality ratings are intended to reflect the magnitude of the reliance of an economic activity
+ on the given ecosystem service. In other words, how affected would an economic activity be if the ecosystem
+ stops providing the ecosystem service or benefit, or the provision of these were disrupted.
+
+ The assessment of the magnitude of the reliance was broken down into the following two questions, each
+ focusing on a different determinant of the level of reliance:
+
+ Question 1: How significant is the loss of functionality in the economic activity if the ecosystem service is
+ disrupted?
+      •   Limited loss of functionality: The economic activity can continue as is or with minor modifications.
+      •   Moderate loss of functionality: The economic activity can continue only with important modifications
+          (e.g., slower production or use of substitutes).
+      •   Severe loss of functionality: Disruption in the service provision prevents the economic activity.
+
+
+
+
+                                                                                                               16
+Question 2: What is the financial cost to the economic activity of adapting to the disruption of the ecosystem
+service?
+    •    Low financial cost: Adaptation to the disruption of the ecosystem services will represent a minor cost
+         to an average company engaging in the economic activity, which will not significantly affect the
+         financial position of the company in the long run.
+    •    Moderate financial cost: Adaptation to the disruption in the ecosystem service will represent a
+         relatively significant cost to an average company engaging in the economic activity, but the cost would
+         not affect the financial viability of the economic activity for the company.
+    •    Severe financial cost: Adaptation to the disruption in the ecosystem service will have a significant
+         effect on the financial viability of the economic activity for an average company engaging in the
+         economic activity.
+
+The responses to the questions above were assigned a score of 1-3 as follows:
+
+ Score                 Functionality loss                               Financial cost
+ 1                     Limited loss of functionality                    Low financial cost
+ 2                     Moderate loss of functionality                   Moderate financial cost
+ 3                     Severe loss of functionality                     Severe financial cost
+
+The scores assigned based on the two questions were summed and a total score from 2 to 6 obtained. This
+total score was then translated into grades on the VL-VH rating scale as follows:
+
+                        Sum of scores                                         Materiality rating
+                              2                                                       VL
+                              3                                                        L
+                              4                                                       M
+                              5                                                       H
+                              6                                                       VH
+
+
+
+Box 3: Questions used to guide the qualitative assessment of pressure materiality ratings
+
+Pressure materiality ratings are intended to reflect the magnitude of the pressure exerted by the economic
+activity (e.g. volume of pollutants emitted, area size used).
+
+To enable comparability of the pressure materiality ratings across sectors and economic activities, the ratings
+drawing on quantitative data were assigned based on per 1 EUR of output values (e.g. volume of pollutants
+emitted per 1 EUR of output, not the total volume of pollutants emitted by the economic activity in a year). This
+accounts for the fact that economic activities and sectors in ISIC (or other industry classifications) are not
+defined to be equivalent in size.
+
+Our approach to qualitative assessment of pressure materiality ratings was designed to mirror the methodology
+used for the quantitative pressure materiality ratings. The assessment of the pressure materiality was broken
+down into the following two questions:
+
+Question 1: What is the size of the economic activity’s total financial output per year?
+       •        Low output
+       •        Medium output
+       •        High output
+
+To reduce human error, the response to this question was determined automatically based on the total output
+value from EE-MRIO. The output value is the total sales or production output of the sector in million Euros. The
+three levels (Low, Medium, High) were calculated by taking the total output values for all EXIOBASE activities
+and splitting them into three intervals.
+
+Question 2: What is the typical magnitude of the pressure created by the economic activity in a year?
+        •        High magnitude: The pressure caused by this economic activity is severe.
+        •        Medium magnitude: The pressure caused by this economic activity is relatively significant.
+        •        Low magnitude: The pressure caused by this economic activity is minor.
+
+
+
+
+                                                                                                               17
+ The responses to the questions above were assigned scores of 1-3 as follows:
+
+                    Size of financial output of the economic
+  Score                                                            Typical pressure magnitude
+                    activity
+          1         High output                                    Low magnitude
+          2         Medium output                                  Medium magnitude
+          3         Low output                                     High magnitude
+
+ Unlike for the qualitative dependency materiality ratings where the two questions were given equal weight in
+ determining the final materiality rating, for the pressure materiality ratings the magnitude question was given a
+ greater weight than the size of the economic activity.
+
+ The weighted approach was tested on pressures for which quantitative data was available, to compare whether
+ the qualitative methodology is likely to yield similar ratings. Based on this testing, the weighting of 3:1 was found
+ to be most closely aligned with the quantitative approach, meaning the magnitude of the pressure was given
+ three times more weight than the size of the economic activity.
+
+ After applying the 3:1 ratio to the scores, the total score from 4 to 12 is obtained. The lowest score is 4 and the
+ highest one is 12. The total score is then translated into grades on the VL-VH rating scale as follows:
+
+                Total score                                              Materiality rating
+                      4                                                         VL
+                      5                                                          L
+                      6                                                          L
+                      7                                                         M
+                      8                                                         M
+                      9                                                          H
+                      10                                                         H
+                      11                                                        VH
+                      12                                                        VH
+
+2.6.2 Materiality ratings for the cultural ecosystem services
+The materiality rating of Very High (VH) was assigned to all cultural ecosystem services
+(Recreation-related services; Visual amenity services; Education, scientific and research
+services; and Spiritual, artistic and symbolic services) across all economic activities that were
+identified as depending on them. Our review of existing literature on the relationship between
+specific economic activities and cultural ecosystem services has shown that further
+consolidation in the scientific community is needed to establish a recognised approach for
+how the materiality of the dependencies on these ecosystem services for specific economic
+activities should be assessed. ENCORE users are encouraged to prioritise the cultural
+ecosystem services as potentially likely highly material as they have complex societal and
+economic implications.
+
+
+2.6.3 Quantitative materiality ratings
+
+For the ratings using a fully quantitative methodology, the materiality ratings were assigned
+based on a set of quantitative indicators from EE-MRIO or other sources. For example, the
+materiality rating for the pressure of Volume of water use was assigned based on a set of
+water withdrawal and water consumption indicators from EE-MRIO. Another example is the
+materiality rating for the pressure of Area of land use, which in addition to EE-MRIO also uses
+area use data from several global studies of land use footprint of different economic sectors
+and activities.
+
+
+
+
+                                                                                                                    18
+The materiality ratings were assigned based on the per 1 EUR of output values (e.g. volume
+of GHGs emitted per 1 EUR of output produced by the economic activity). Any economic
+activities with values that are more than three standard deviations above from the mean were
+identified as outliers and assigned a Very High materiality rating. Any economic activities with
+values that are more than three standard deviations below the mean were identified as outliers
+and assigned a Very Low materiality rating. The remaining values were split into the five
+grades on the rating scale (Very Low, Low, Medium, High, Very High) using a natural breaks
+method. Mean was calculated as the average value of the economic activities included in the
+calculations (i.e. economic activities linked to the dependency or pressure in question in the
+qualitative desk review).
+More detailed overview of the methodologies used to assign the quantitative materiality
+ratings will be made available in the second half of 2024.
+2.6.4 Blended materiality ratings
+
+There are five dependency materiality ratings using a blended methodology, which combines
+quantitative indicators from EE-MRIO or other sources with qualitative assessment. They
+include Biomass provisioning services, Water supply, Soil quality regulation, Water flow
+regulation and Pollination services. For these dependency materiality ratings, there were
+quantitative indicators that enabled assessing how significant would be the loss of
+functionality for the economic activity if the ecosystem service is disrupted (e.g. data on the
+amount of biomass or volume of water used by an economic activity per 1 EUR of output).
+Qualitative assessment was used to assess additional aspects (e.g. what would be the
+financial cost to the economic activity if it needed to replace the ecosystem service).
+
+More detailed overview of the methodologies used to assign the blended materiality ratings
+will be made available in the second half of 2024.
+
+
+
+
+   What it means for users:
+
+   ENCORE materiality ratings can be used to screen dependencies and pressures that
+   are likely to be significant before conducting a more detailed assessment. The
+   improvements to the materiality ratings methodologies included in these updates
+   enable use of the ratings for comparisons of materiality of a certain potential
+   dependency or pressure across economic activities and sectors. Where possible, the
+   materiality ratings now draw on quantitative environmental data. Where suitable
+   quantitative environmental data was not available, a robust qualitative assessment
+   methodology was used. In addition to increased comparability and reliability, the level
+   of granularity in the ratings has increased too. Materiality ratings are now available for
+   271 economic activities at ISIC Level 3 or 4.
+
+
+
+
+2.7 Value chain links
+This is a new functionality of the ENCORE knowledge base that directly responds to
+user feedback. The updated ENCORE knowledge base contains a list of key
+
+
+
+                                                                                                19
+upstream and downstream value chain links (two tiers upstream and two tiers
+downstream) for all 271 economic activities for which dependencies and impacts
+have been identified and materiality ratings assigned.
+
+Table 8: Terminology used for the value chain links and extent of coverage.
+                     N-2                 Second upstream tier. Supplies to N-1.
+Upstream
+                     N-1                 First upstream tier. Supplies to N.
+Direct               N                   Direct economic activity
+                     N+1                 First downstream tier. Consumes output from N.
+Downstream
+                     N+2                 Second downstream tier. Consumes output from N+1.
+
+
+Data on value chain links is based on the Environmentally-Extended Multi-Regional Input-
+Output database (EE-MRIO) developed by ETH Zürich, which is based on EXIOBASE (version
+3.6). The links within the input-output database reflect the trade flows between different sub-
+sectors. Note that what is shown as an important link in terms of the trade flows may differ
+from what would be considered to be an important link based on the commodity or product
+life cycle.
+
+The EE-MRIO data was converted to ISIC using an EXIOBASE-NACE-ISIC crosswalk (which is
+also available with the data files, see Section 9 below). While the direct operations economic
+activities are captured in the ENCORE knowledge base using ISIC Level 3 or 4, upstream and
+downstream links are shown using ISIC Level 2. This is because Level 2 of ISIC provides the
+best match with the EXIOBASE classification.
+
+The value chain links are provided for two tiers upstream and two tiers downstream from the
+direct operations. Adding more tiers would risk showing a large proportion of the economy in
+the value chain of each economic activity, rendering the information too complex to use.
+
+To make the database more manageable, the ENCORE knowledge base shows only key value
+chain links, not all value chain links. Only the top five links are included for each tier (i.e., for
+one direct economic activity, up to five N-1 links and up to 25 N-2 links are shown). These top
+five links were selected based on their value added as provided in the EE-MRIO.
+
+
+
+
+                                                                                                  20
+    What it means for users:
+
+    ENCORE users will be able to see the key upstream and downstream value chain
+    links associated with an economic activity in question. This will allow them to start
+    exploring dependencies and pressures are associated with activities. For many
+    companies, the most material dependencies and impacts are found in their value
+    chain and not in direct operations.
+
+    The focus on top five value chain links enables presenting the information in a user-
+    friendly format. It will be useful for companies beginning to assess nature-related
+    dependencies and impacts in their value chains.
+
+    Companies with more advanced analytical capacities will be able to apply the
+    EXIOBASE-ISIC crosswalk developed for the purposes of the updated ENCORE
+    knowledge base and the full input-output data from EE-MRIO or EXIOBASE to map all
+    value chain links that are likely to be included in their value chain.
+
+
+
+
+   3. Crosswalk tables
+Along with other materials, the following crosswalks are provided to help users align data
+between the previous and updated versions of the ENCORE knowledge base, and between
+ENCORE and other tools and frameworks:
+   • GICS® + ENCORE’s bespoke production processes to ISIC industry classification.
+   • Ecosystem services from 2018-2023 version of the ENCORE knowledge base (based
+      on CICES v4.3) to ecosystem services categorization used in the updated ENCORE
+      knowledge base (based on SEEA EA).
+   • List of impact drivers used in the 2018-2023 version of the ENCORE knowledge base
+      to list of pressures used in the updated ENCORE knowledge base.
+   • EXIOBASE to NACE to ISIC crosswalk developed for the purposes of the updated
+      ENCORE knowledge base by merging existing EXIOBASE to NACE and NACE to ISIC
+      crosswalks.
+
+All the crosswalk tables are available for download from the Methodology & Downloads tab
+of the website. Please note that you will need to be logged in to access the download link.
+Creating an account on the ENCORE website is free.
+
+   4. Other notes
+Do you have any questions that were not answered in this note? Please check our FAQ
+document (also available on the Methodology & Downloads tab).
+
+  5. Limitations
+As any similar tool or methodology, the updated ENCORE knowledge base and the
+methodology behind it have some limitations. Some of these could be addressed through
+future research and development of ENCORE, others are inherent to this type of a screening
+tool.
+
+
+
+
+                                                                                            21
+Qualitative links between economic activities and ecosystem services, and economic
+activities and pressures
+The links between economic activities and ecosystem services and between economic
+activities and pressures documented in the updated ENCORE knowledge base are high-level,
+global links. Therefore, where there is a dependency or a pressure link recorded for an
+economic activity, it does not mean that all firms engaging in that activity have that
+dependency or exert that pressure. ENCORE is designed as a screening tool showing potential
+dependencies and impacts. All users are encouraged to delve deeper and assess their actual
+dependencies and impacts on nature, taking into consideration the context of their company
+and characteristics of locations where they have direct operations or value chain links.
+
+Value chain links
+As described in Section 8 above, the value chain links shown in the updated ENCORE
+knowledge base are taken from the EE-MRIO based on EXIOBASE. They do not show all value
+chain links that an economic activity has, only the key links based on the value added data in
+the EE-MRIO database. Since the data only shows two tiers upstream and two tiers
+downstream, the data may not reach the point of extraction or primary production. For
+example, for direct economic activity Wholesale of food, beverages and tobacco, the activity of
+Growing of fibre crops will not appear in the N-1 or N-2 value chain links provided by the ENCORE
+knowledge base because it is more than two steps removed. Extending the value chain links
+coverage for key sectors will be one of the areas for potential future research and
+development of the ENCORE tool. In the meantime, users are encouraged to add or extend
+value chain links in their own assessments as relevant.
+
+
+Fossil fuels
+In the updated ENCORE knowledge base, stocks of fossil fuels (e.g., coal, gas, oil) are not
+considered as part of natural capital’s stock of abiotic resources. Economic activities
+dependencies and impacts on the stocks of coal, gas, oil and other fossil fuels are therefore
+not captured in the qualitative links or materiality ratings.
+
+Materiality ratings
+The updated ENCORE knowledge base allows users to compare materiality ratings for a given
+dependency or pressure across multiple economic sectors and activities. However, the
+ratings are not designed to enable comparisons across different ecosystem services or
+pressures.
+
+As an example, users of the updated ENCORE knowledge base will be able to say that the
+economic activity Growing of rice tends to use more water than the economic activity
+Manufacture of plastics per 1 EUR of output. However, users seeing that the economic activity
+Growing of rice has VH materiality rating for the pressure of Volume of water use and VL
+materiality rating for the pressure of introducing invasive species, will not be able to say how
+much more material the water use is for the Growing of rice economic activity compared to
+the pressure of introducing invasive species. This reflects the recognition that there is no
+consistent hierarchy between pressures or ecosystem services – while some pressures or
+ecosystem services may appear more important to address in certain contexts or locations,
+in other cases the relative priority between them may be completely different. ENCORE users
+are encouraged to consider this limitation when interpreting the materiality ratings.
+
+
+
+
+                                                                                              22
+Where quantitative indicators were used, the calculations of materiality ratings were done
+using values per 1 EUR of output. This enabled comparability of the materiality across sectors
+and economic activities. In ISIC, similarly to other industry classifications, economic activities
+are not defined to be consistent in size (neither size of the turnover nor number of companies
+included). Since the per 1 EUR of output values were used, some economic activities with the
+same absolute quantities of pressures exerted may be assigned different materiality ratings.
+For some ecosystems and pressures that are linked to a small number of economic activities,
+not all materiality rating scale grades are represented. For example, in the ecosystem service
+of Other provisioning services - Animal-based energy, there are no economic activities that have
+a High or Very High materiality rating.
+
+The materiality ratings indicate typical level of materiality at global level. The actual materiality
+of dependencies and impacts is likely to vary significantly based on the specific context,
+company and location that is assessed.
+
+Water supply ecosystem service
+The SEEA EA definition of the water supply ecosystem service states that the service "reflects
+the combined ecosystem contributions of water flow regulation, water purification, and other
+ecosystem services to the supply of water of appropriate quality to users for various uses
+including household consumption" (SEEA EA, 2021). When interpreting the dependency data
+and ratings from ENCORE, we encourage users to consider that water supply represents a final
+ecosystem service that combines other water-related ecosystem services also captured in
+ENCORE. As these ecosystem services are designed to overlap in the SEEA EA categorisation,
+users should consider excluding the water supply ecosystem service from their analyses
+where this may cause duplication.
+
+When describing an economic activity’s dependency on the water supply ecosystem service,
+we encourage users to refer to ecosystems as “providing the ecosystem service of regulating
+water quantity” or “providing the water quantity regulation ecosystem service”. The wording
+“water provision” or “ecosystems supply water” are occasionally used as a shorthand but
+these statements are not scientifically correct and could be misleading. Ecosystems do not
+generate, produce, or provide water, they support the regulation of quality and quantity of
+water throughout the water cycle.
+
+
+
+Dependency on water supply, water purification and water flow regulation ecosystem
+services
+Following a precautionary approach, in this knowledge base, an economic activity is described
+as dependent on the water supply, water purification and water flow regulation ecosystem
+services both if the activity extracts water from the ecosystem itself and if the activity uses
+piped water (e.g., provided through municipal means). Scientific and grey literature reviewed
+for the purposes of determining the dependency links do not always differentiate between an
+economic activity's consumption of water that it directly extracted or that has been supplied
+to it. The data from the EE-MRIO database that was used to calculate the dependency
+materiality ratings for water-related ecosystem services also does not differentiate between
+water that has been directly extracted by the economic activity and water that has been
+supplied to it.
+
+
+
+
+                                                                                                  23
+Location specificity
+The knowledge base was not developed using location-specific information. All users are
+encouraged to integrate, apply and adapt the broad information gathered here for their own
+individual use case. Shifting supply chains to a different country to manage impacts on natural
+capital assets is also not captured in this framework, but these mitigation efforts could be
+captured in individual risk assessments by financial institutions or businesses.
+
+
+Data coverage
+Possible data sources are collected and curated in a wide variety of languages worldwide. As
+such, it is unlikely that all available data sources have been identified.
+
+
+Data currency
+The data sources identified in the updated ENCORE knowledge base represent the best
+available data at the time the research was conducted (2023-2024). However, websites
+providing access to data sources may not be accessible indefinitely and more up-to-date
+datasets may become available.
+
+
+Technical skills
+Many of the spatial data sources identified within the inventories may require technical skills
+or Geographical Information Systems knowledge to use.
+
+
+Industry classification coverage
+The ENCORE knowledge base on natural capital dependencies and impacts currently uses a
+list of economic activities drawn from the UN’s International Standard Industrial Classification
+of All Economic Activities (ISIC). It is recognised that many financial institutions and
+businesses use other classification systems. ENCORE now provides crosswalks for ISIC to
+some other classifications (e.g., NACE and GICS®). However, it is recognized that it does not
+yet support all major industry classifications.
+
+
+Opportunities
+The ENCORE knowledge base currently provides information on dependencies and impacts
+associated with different economic activities. However, it does not yet cover opportunities
+related to companies’ interactions with nature.
+
+
+
+
+                                                                                             24
+

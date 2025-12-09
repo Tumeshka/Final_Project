@@ -1,0 +1,33 @@
+{
+  "name": "portfolio-impact-analyzer",
+  "version": "1.0.0",
+  "description": "Interactive web tool for analyzing environmental impacts of investment portfolios using ENCORE framework",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8001",
+    "build": "echo 'Static site - no build step required'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/portfolio-impact-analyzer.git"
+  },
+  "keywords": [
+    "environmental-finance",
+    "portfolio-analysis", 
+    "sustainability",
+    "encore",
+    "network-visualization",
+    "plotly",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

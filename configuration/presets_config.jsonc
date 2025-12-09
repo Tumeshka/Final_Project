@@ -1,0 +1,413 @@
+{
+    // ==========================================================================
+    // ENCORE Analysis Presets Configuration
+    // ==========================================================================
+    //
+    // This file defines all analysis presets used in the CrossSectorImpactEngine.
+    // Edit this file to customize presets for your analysis needs.
+    //
+    // DESIGN PRINCIPLE: Single Parameter Variation
+    // =============================================
+    // Each preset changes ONLY ONE parameter from the baseline "Balanced" preset.
+    // This allows direct comparison of how each parameter affects the analysis.
+    // The Baseline preset is included in every category for easy comparison.
+    //
+    // BASELINE (Balanced):
+    //   intensity: "M", timescale: "All", direct_indirect: "All", 
+    //   spatial: "All", comp_svc_rating: "All", svc_act_intensity: "M"
+    //
+    // PARAMETER REFERENCE:
+    // ====================
+    //
+    // 1. intensity (Activity → Pressures) - CUMULATIVE
+    //    - Controls which environmental pressures are included based on how strongly 
+    //      the source activity creates them
+    //    - Values: "VL" (Very Low+), "L" (Low+), "M" (Medium+), "H" (High+), "VH" (Very High only)
+    //    - Higher = fewer but more significant pressures
+    //
+    // 2. timescale (Pressures → Ecosystem Components)
+    //    - Filters by how quickly pressures affect ecosystem components
+    //    - Values: "All", "Short" (immediate), "Mid" (years), "Long" (decades)
+    //    - Use "Short" for operational risks, "Long" for climate/transition risks
+    //
+    // 3. direct_indirect (Pressures → Ecosystem Components)  
+    //    - Whether pressures affect components directly or through cascade effects
+    //    - Values: "All", "Direct", "Indirect"
+    //    - "Direct" = more certain cause-effect, "Indirect" = systemic/cascading effects
+    //
+    // 4. spatial (Pressures → Ecosystem Components)
+    //    - Geographic scale of environmental impacts
+    //    - Values: "All", "Local", "Regional", "Global"
+    //    - "Local" = site-specific, "Global" = climate/planetary boundaries
+    //
+    // 5. comp_svc_rating (Ecosystem Components → Ecosystem Services)
+    //    - Sensitivity of the component-to-service relationship
+    //    - Values: "All", "R" (Red/High), "A" (Amber/Medium), "G" (Green/Low)
+    //    - "R" = high sensitivity means small changes in component cause large service disruption
+    //
+    // 6. svc_act_intensity (Ecosystem Services → Affected Activities) - CUMULATIVE
+    //    - How strongly affected activities depend on ecosystem services
+    //    - Values: "VL", "L", "M", "H", "VH"
+    //    - Higher = only show activities with strong dependencies (more vulnerable)
+    //
+    // ENCORE SCORING SCALE:
+    // ====================
+    // VL (Very Low) = 2
+    // L (Low) = 3  
+    // M (Medium) = 4
+    // H (High) = 5
+    // VH (Very High) = 6
+    //
+    // ==========================================================================
+
+    "presets": {
+
+        // =====================================================================
+        // INTENSITY PRESETS - Varies: intensity (pressure threshold)
+        // CUMULATIVE: "Low+" means Low and above (L, M, H, VH)
+        // =====================================================================
+
+        "Baseline (Medium+)": {
+            "category": "Intensity",
+            "params": {
+                "intensity": "M",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "M"
+            },
+            "description": "The baseline preset with Medium+ pressure threshold. Reference point for all comparisons.",
+            "use_case": "Reference point for comparing the effect of individual parameter changes."
+        },
+
+        "Low+": {
+            "category": "Intensity",
+            "params": {
+                "intensity": "L",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "M"
+            },
+            "description": "Includes Low+ intensity pressures. Shows more connections including weaker environmental pressures from source activities.",
+            "use_case": "Compare to Baseline to see emerging/weak pressure pathways."
+        },
+
+        "High+": {
+            "category": "Intensity",
+            "params": {
+                "intensity": "H",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "M"
+            },
+            "description": "Includes only High+ intensity pressures. Shows fewer but more significant environmental pressures from source activities.",
+            "use_case": "Compare to Baseline to focus on major pressure pathways only."
+        },
+
+        "Very High Only": {
+            "category": "Intensity",
+            "params": {
+                "intensity": "VH",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "M"
+            },
+            "description": "Includes only Very High intensity pressures. Most restrictive - shows only the strongest environmental pressures.",
+            "use_case": "Compare to Baseline to see only the most severe pressure pathways."
+        },
+
+        // =====================================================================
+        // TIMESCALE PRESETS - Varies: timescale (when impacts occur)
+        // =====================================================================
+
+        "Baseline (All Timescales)": {
+            "category": "Timescale",
+            "params": {
+                "intensity": "M",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "M"
+            },
+            "description": "The baseline preset including all timescales. Reference point for timescale comparisons.",
+            "use_case": "Reference point for comparing the effect of timescale changes."
+        },
+
+        "Short-term": {
+            "category": "Timescale",
+            "params": {
+                "intensity": "M",
+                "timescale": "Short",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "M"
+            },
+            "description": "Only short-term impacts (immediate/operational). Excludes mid-term and long-term climate effects.",
+            "use_case": "Compare to Baseline to isolate immediate operational risks."
+        },
+
+        "Mid-term": {
+            "category": "Timescale",
+            "params": {
+                "intensity": "M",
+                "timescale": "Mid",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "M"
+            },
+            "description": "Only mid-term impacts (years). Excludes immediate and long-term effects.",
+            "use_case": "Compare to Baseline to isolate strategic planning horizon risks."
+        },
+
+        "Long-term": {
+            "category": "Timescale",
+            "params": {
+                "intensity": "M",
+                "timescale": "Long",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "M"
+            },
+            "description": "Only long-term impacts (decades). Excludes immediate and mid-term effects.",
+            "use_case": "Compare to Baseline to isolate climate/transition risks."
+        },
+
+        // =====================================================================
+        // IMPACT TYPE PRESETS - Varies: direct_indirect
+        // =====================================================================
+
+        "Baseline (All Types)": {
+            "category": "Impact Type",
+            "params": {
+                "intensity": "M",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "M"
+            },
+            "description": "The baseline preset including all impact types. Reference point for impact type comparisons.",
+            "use_case": "Reference point for comparing direct vs indirect impacts."
+        },
+
+        "Direct Only": {
+            "category": "Impact Type",
+            "params": {
+                "intensity": "M",
+                "timescale": "All",
+                "direct_indirect": "Direct",
+                "spatial": "All",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "M"
+            },
+            "description": "Only direct impacts on ecosystem components. Excludes cascading/systemic indirect effects.",
+            "use_case": "Compare to Baseline to see only clear cause-effect relationships."
+        },
+
+        "Indirect Only": {
+            "category": "Impact Type",
+            "params": {
+                "intensity": "M",
+                "timescale": "All",
+                "direct_indirect": "Indirect",
+                "spatial": "All",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "M"
+            },
+            "description": "Only indirect/cascading impacts on ecosystem components. Excludes direct effects.",
+            "use_case": "Compare to Baseline to see systemic cascade pathways."
+        },
+
+        // =====================================================================
+        // SPATIAL PRESETS - Varies: spatial (geographic scale)
+        // =====================================================================
+
+        "Baseline (All Scales)": {
+            "category": "Spatial",
+            "params": {
+                "intensity": "M",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "M"
+            },
+            "description": "The baseline preset including all spatial scales. Reference point for spatial comparisons.",
+            "use_case": "Reference point for comparing spatial scale effects."
+        },
+
+        "Local": {
+            "category": "Spatial",
+            "params": {
+                "intensity": "M",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "Local",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "M"
+            },
+            "description": "Only local/site-specific impacts. Excludes regional and global effects.",
+            "use_case": "Compare to Baseline to see site-level environmental dependencies."
+        },
+
+        "Regional": {
+            "category": "Spatial",
+            "params": {
+                "intensity": "M",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "Regional",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "M"
+            },
+            "description": "Only regional-scale impacts. Excludes local and global effects.",
+            "use_case": "Compare to Baseline to see supply chain/market-level dependencies."
+        },
+
+        "Global": {
+            "category": "Spatial",
+            "params": {
+                "intensity": "M",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "Global",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "M"
+            },
+            "description": "Only global-scale impacts. Excludes local and regional effects.",
+            "use_case": "Compare to Baseline to see planetary boundary/climate dependencies."
+        },
+
+        // =====================================================================
+        // SENSITIVITY PRESETS - Varies: comp_svc_rating (component sensitivity)
+        // =====================================================================
+
+        "Baseline (All Ratings)": {
+            "category": "Sensitivity",
+            "params": {
+                "intensity": "M",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "M"
+            },
+            "description": "The baseline preset including all sensitivity ratings. Reference point for sensitivity comparisons.",
+            "use_case": "Reference point for comparing sensitivity effects."
+        },
+
+        "Red (High)": {
+            "category": "Sensitivity",
+            "params": {
+                "intensity": "M",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "R",
+                "svc_act_intensity": "M"
+            },
+            "description": "Only highly sensitive component-service links (Red rating). Small ecosystem changes cause large service disruption.",
+            "use_case": "Compare to Baseline to see only high-sensitivity pathways."
+        },
+
+        "Amber (Medium)": {
+            "category": "Sensitivity",
+            "params": {
+                "intensity": "M",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "A",
+                "svc_act_intensity": "M"
+            },
+            "description": "Only medium sensitivity component-service links (Amber rating).",
+            "use_case": "Compare to Baseline to see medium-sensitivity pathways."
+        },
+
+        "Green (Low)": {
+            "category": "Sensitivity",
+            "params": {
+                "intensity": "M",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "G",
+                "svc_act_intensity": "M"
+            },
+            "description": "Only low sensitivity component-service links (Green rating). Ecosystem changes have limited service impact.",
+            "use_case": "Compare to Baseline to see low-sensitivity/resilient pathways."
+        },
+
+        // =====================================================================
+        // DEPENDENCY PRESETS - Varies: svc_act_intensity (activity dependency)
+        // CUMULATIVE: "Low+" means Low and above (L, M, H, VH)
+        // =====================================================================
+
+        "Baseline (Medium+ Dep.)": {
+            "category": "Dependency",
+            "params": {
+                "intensity": "M",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "M"
+            },
+            "description": "The baseline preset with Medium+ dependency threshold. Reference point for dependency comparisons.",
+            "use_case": "Reference point for comparing dependency threshold effects."
+        },
+
+        "Low+ Dependency": {
+            "category": "Dependency",
+            "params": {
+                "intensity": "M",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "L"
+            },
+            "description": "Includes Low+ activity dependencies on ecosystem services. Shows more affected activities including those with weaker dependencies.",
+            "use_case": "Compare to Baseline to see broader set of potentially affected activities."
+        },
+
+        "High+ Dependency": {
+            "category": "Dependency",
+            "params": {
+                "intensity": "M",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "H"
+            },
+            "description": "Includes only High+ activity dependencies. Shows fewer but more vulnerable affected activities.",
+            "use_case": "Compare to Baseline to focus on highly dependent/vulnerable activities."
+        },
+
+        "Very High Dependency Only": {
+            "category": "Dependency",
+            "params": {
+                "intensity": "M",
+                "timescale": "All",
+                "direct_indirect": "All",
+                "spatial": "All",
+                "comp_svc_rating": "All",
+                "svc_act_intensity": "VH"
+            },
+            "description": "Includes only Very High activity dependencies. Most restrictive - shows only activities with critical ecosystem service dependencies.",
+            "use_case": "Compare to Baseline to see only the most vulnerable activities."
+        }
+    }
+}

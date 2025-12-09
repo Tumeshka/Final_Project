@@ -1,0 +1,34 @@
+Issuer Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Nominal,Price,Location,Exchange,Market Currency
+SHELL,SHELL PLC,Energy,Equity,125727968.0,28.5224,125727968.0,3928999,32.0,United Kingdom,Euronext Amsterdam,EUR
+TTE,TOTALENERGIES,Energy,Equity,65615398.14,14.88538,65615398.14,1157034,56.71,France,Nyse Euronext - Euronext Paris,EUR
+BP.,BP PLC,Energy,Equity,60362144.1,13.69364,60362144.1,11577319,5.21,United Kingdom,London Stock Exchange,GBP
+ENR,SIEMENS ENERGY N AG,Industrials,Equity,56233806.7,12.75709,56233806.7,499634,112.55,Germany,Xetra,EUR
+ENI,ENI,Energy,Equity,24369293.49,5.52837,24369293.49,1506323,16.18,Italy,Borsa Italiana,EUR
+VWS,VESTAS WIND SYSTEMS,Industrials,Equity,14599001.44,3.3119,14599001.44,708952,20.59,Denmark,Omx Nordic Exchange Copenhagen A/S,DKK
+REP,REPSOL SA,Energy,Equity,12840070.68,2.91287,12840070.68,792108,16.21,Spain,Bolsa De Madrid,EUR
+EQNR,EQUINOR,Energy,Equity,9517268.65,2.15907,9517268.65,481343,19.77,Norway,Oslo Bors Asa,NOK
+PKN,ORLEN SA,Energy,Equity,9114469.36,2.06769,9114469.36,408238,22.33,Poland,Warsaw Stock Exchange/Equities/Main Market,PLN
+SRG,SNAM,Utilities,Equity,8314410.24,1.88619,8314410.24,1443474,5.76,Italy,Borsa Italiana,EUR
+NESTE,NESTE,Energy,Equity,5083653.54,1.15327,5083653.54,300986,16.89,Finland,Nasdaq Omx Helsinki Ltd.,EUR
+GALP,GALP ENERGIA SGPS SA CLASS B,Energy,Equity,5055538.5,1.14689,5055538.5,291050,17.37,Portugal,Nyse Euronext - Euronext Lisbon,EUR
+OMV,OMV AG,Energy,Equity,4855978.64,1.10162,4855978.64,100082,48.52,Austria,Wiener Boerse Ag,EUR
+AKRBP,AKER BP,Energy,Equity,4528097.37,1.02724,4528097.37,215399,21.02,Norway,Oslo Bors Asa,NOK
+GTT,GAZTRANSPORT & TECHNIGAZ SA,Energy,Equity,4488261.6,1.0182,4488261.6,26034,172.4,France,Nyse Euronext - Euronext Paris,EUR
+TEN,TENARIS SA,Energy,Equity,4424829.48,1.00381,4424829.48,251268,17.61,Italy,Borsa Italiana,EUR
+TE,TECHNIP ENERGIES NV,Energy,Equity,3092015.9,0.70145,3092015.9,92965,33.26,France,Nyse Euronext - Euronext Paris,EUR
+EUR,EUR CASH,Cash and/or Derivatives,Cash,3043369.28,0.69041,3043369.28,3043369,100.0,European Union,--,EUR
+SUBC,SUBSEA SA,Energy,Equity,2635119.0,0.5978,2635119.0,160369,16.43,Norway,Oslo Bors Asa,NOK
+ENG,ENAGAS SA,Utilities,Equity,2343231.72,0.53158,2343231.72,164322,14.26,Spain,Bolsa De Madrid,EUR
+SBMO,SBM OFFSHORE NV,Energy,Equity,2341072.94,0.53109,2341072.94,95243,24.58,Netherlands,Euronext Amsterdam,EUR
+NDX1,NORDEX,Industrials,Equity,2204305.12,0.50006,2204305.12,87751,25.12,Germany,Xetra,EUR
+SPM,SAIPEM,Energy,Equity,2193029.71,0.49751,2193029.71,922604,2.38,Italy,Borsa Italiana,EUR
+USD,USD CASH,Cash and/or Derivatives,Cash,2111708.67,0.47906,2111708.67,2455917,85.98,United States,--,USD
+VK,VALLOUREC SA,Energy,Equity,1883986.67,0.4274,1883986.67,118527,15.9,France,Nyse Euronext - Euronext Paris,EUR
+VAR,VAR ENERGI,Energy,Equity,1753690.37,0.39784,1753690.37,646717,2.71,Norway,Oslo Bors Asa,NOK
+VPK,KONINKLIJKE VOPAK NV,Energy,Equity,1542248.96,0.34987,1542248.96,39872,38.68,Netherlands,Euronext Amsterdam,EUR
+PLN,PLN CASH,Cash and/or Derivatives,Cash,25800.02,0.00585,25800.02,109076,23.65,Poland,--,PLN
+NOK,NOK CASH,Cash and/or Derivatives,Cash,13201.63,0.00299,13201.63,155303,8.5,Norway,--,NOK
+GBP,GBP CASH,Cash and/or Derivatives,Cash,12198.19,0.00277,12198.19,10705,113.95,United Kingdom,--,GBP
+DKK,DKK CASH,Cash and/or Derivatives,Cash,66.2,2e-05,66.2,494,13.39,Denmark,--,DKK
+ETD_EUR,ETD EUR BALANCE WITH R67675,Cash and/or Derivatives,Cash,0.0,0.0,0.0,0,100.0,European Union,--,EUR
+SEK,SEK CASH,Cash and/or Derivatives,Cash,9.12,0.0,9.12,100,9.12,Sweden,--,SEK

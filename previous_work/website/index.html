@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Interactive portfolio environmental impact analysis tool using ENCORE framework for sustainable finance research">
+    <meta name="keywords" content="environmental finance, portfolio analysis, sustainability, ENCORE, network visualization">
+    <meta name="author" content="Portfolio Impact Analysis">
+    <title>Portfolio Environmental Impact Analyzer</title>
+    <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌍</text></svg>">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="dark-theme">
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-leaf"></i>
+                    <h1>Portfolio Impact Analyzer</h1>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Analysis Tool -->
+    <main class="main-content">
+        <div class="container">
+            <!-- Advanced Control Panel -->
+            <div class="control-panel">
+                                <!-- Portfolio Selection -->
+                <div class="control-row">
+                    <div class="control-group">
+                        <label for="portfolioSelect" class="control-label">
+                            <i class="fas fa-briefcase"></i>
+                            Portfolio
+                        </label>
+                        <select id="portfolioSelect" class="control-select">
+                            <option value="Energy">Energy</option>
+                            <option value="Agriculture">Agriculture</option>
+                            <option value="Technology">Technology</option>
+                            <option value="Financial">Financial</option>
+                            <option value="Manufacturing">Manufacturing</option>
+                        </select>
+                    </div>
+
+                    <button id="generateBtn" class="generate-btn">
+                        <i class="fas fa-sync-alt"></i>
+                        Generate Network
+                    </button>
+                </div>
+
+                <!-- Advanced Options Row -->
+                <div class="control-row advanced-controls">
+                    <div class="control-group toggle-group">
+                        <label for="showLabels" class="control-label toggle-label">
+                            <i class="fas fa-tags"></i>
+                            Show Labels
+                        </label>
+                        <label class="toggle">
+                            <input type="checkbox" id="showLabels" checked>
+                            <span class="slider"></span>
+                        </label>
+                    </div>
+
+                    <button id="exportBtn" class="export-btn">
+                        <i class="fas fa-download"></i>
+                        Export
+                    </button>
+
+                    <button id="fullscreenBtn" class="fullscreen-btn">
+                        <i class="fas fa-expand"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Visualization Container -->
+            <div class="visualization-container">
+                <div id="loadingSpinner" class="loading hidden">
+                    <div class="spinner"></div>
+                    <p>Generating network...</p>
+                </div>
+                <div id="plotlyChart" class="chart-container"></div>
+            </div>
+
+            <!-- Compact Legend -->
+            <div class="legend compact">
+                <div class="legend-items">
+                    <div class="legend-item">
+                        <span class="legend-color" style="background-color: #FFD700;"></span>
+                        <span class="legend-label">Portfolio</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-color" style="background-color: #00FF7F;"></span>
+                        <span class="legend-label">Activities</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-color" style="background-color: #FF6B35;"></span>
+                        <span class="legend-label">Pressures</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-color" style="background-color: #DC143C;"></span>
+                        <span class="legend-label">Mechanisms</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-color" style="background-color: #228B22;"></span>
+                        <span class="legend-label">Natural Capital</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-color" style="background-color: #9370DB;"></span>
+                        <span class="legend-label">Services</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

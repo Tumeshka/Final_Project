@@ -1,0 +1,47 @@
+﻿Guidance on value chain links ,,
+,,
+"The improved knowledge base of ENCORE shows two tiers upstream and two tiers downstream from the direct economic activities in tab 11 and tab 12.  For clarity, we refer to them as follows:",,
+,,
+Upstream,Upstream tier 2 value chain link,Second upstream tier. Supplies to upstream tier 1.
+,Upstream tier 1 value chain link,First upstream tier. Supplies to direct operations.
+Direct,Direct operations,Direct economic activity
+Downstream,Downstream tier 1 value chain link,First downstream tier. Consumes output from direct operations.
+,Downstream tier 2 value chain link,Second downstream tier. Consumes output from downstream tier 1.
+,,
+Tab 11 showing the upstream value chain links includes:,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+Tab 12 gives the same information but for the downstream links.,,
+,,
+What level of ISIC is used to present the value chain links?,,
+"The tier 1 and 2 value chain links for upstream and downstream are listed as ISIC Level 2 (Division) because the value chain link data is taken from the Environmentally-Extended Multi-Regional Input-Output (EE-MRIO) database developed by ETH Zurich. The EE-MRIO database uses the EXIOBASE industry classification. EXIOBASE and ISIC are relatively well aligned at the level of ISIC Level 2 (Division). The more detailed levels of EXIOBASE and ISIC do not match well, which means we would not have data on how some of the ISIC Level 3 (Group) or ISIC Level 4 (Class) fit in the different value chains. However, the lower granularity for the tier 1 and 2 upstream and downstream links still provide decision-useful information as there are 88 ISIC divisions.
+
+The only exceptions are two sectors where EE-MRIO uses a more detailed classification of economic activities, which allowed us to map it well to ISIC Level 3 (Group) or ISIC Level 4 (Class). These are agriculture and energy production.",,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+What value  chain links are shown?,,
+"The tier 1 and 2 upstream and downstream links value chain links shown in the improved knowledge base of ENCORE represent only the key links. These were selected based on the data on value added. Value added here refers to the enhancement in the economic value of a product or service that a company achieves as a result of the contributions from its suppliers. For example, the value added by first tier upstream supplier to the products of the direct operations sector or economic activity*. The EE-MRIO database provides information on value added between each direct operation to upstream and downstream tier 1 to upstream and downstream tier 2. Using this data, the top 5 links with the highest added value for each focal economic activity were selected (based on global totals). This ensures that: 
+•	The full dataset is of manageable size – without filtering we would have over one million links in the database.
+•	The information on the value chain links is decision-useful for businesses and financial institutions – the unfiltered data from the EE-MRIO database would capture even insignificant value chain relationships (e.g. hotels supplying food manufacturers – food manufacturers sometimes use hotel services but the hotel industry is not where their main upstream value chain links are). ",,
+,,
+* http://www-personal.umich.edu/~alandear/glossary/v.html,,
